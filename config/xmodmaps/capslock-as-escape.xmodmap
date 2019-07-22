@@ -1,0 +1,9 @@
+! swap [Caps_Lock]into Escape
+!remove Lock = Caps_Lock
+!keysym Escape = Caps_Lock
+!keysym Caps_Lock = Escape
+!add Lock = Caps_Lock
+! change [Caps_Lock] to second [Esc]
+remove Lock = Caps_Lock
+keysym Caps_Lock = Escape
+! keycode 66 = Escape

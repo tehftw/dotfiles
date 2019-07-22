@@ -1,0 +1,44 @@
+!use `xev` to see keycodes of keys
+
+
+! move modifiers around
+! normally:
+!108 = Altgr
+!64 = Alt_L
+!105 = Ctrl_R
+!37 = Ctrl_L
+keycode 64  = Alt_L
+keycode 108 = Alt_R
+keycode 37  = Control_L
+keycode 105 = Control_R
+
+! right "Menu" key
+keycode 135 = Super_R
+
+
+! swap [Esc] and [Caps_Lock
+!remove Lock = Caps_Lock
+!keysym Escape = Caps_Lock
+!keysym Caps_Lock = Escape
+!add Lock = Caps_Lock
+! change [Caps_Lock] to second [Esc]
+remove Lock = Caps_Lock
+keysym Escape = Escape
+keysym Caps_Lock = Escape
+! keycode 66 = Escape
+
+!! swap '-' '_' ('minus' and 'underscore')
+!keycode 20 = underscore minus
+
+
+!! numpad pointerkeys config: swap Numlock with Shift+Numlock
+!! keysym 0xfef9 = Shift_L+Num_Lock (Pointer_EnableKeys)
+!! keysym 0xff7f = Num_Lock
+!sadly, doesn't work so disabled
+!keycode 0xfef9 = Num_Lock
+!keycode 0xff7f = Pointer_EnableKeys
+!remove Lock = Num_Lock
+
+keycode 21 = plus equal
+
+

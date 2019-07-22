@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Warning! -->
+<!-- Manually altering this file can generate unpredictable behavior in the application. You can lose customization and migration functionality. -->
+<!-- If you need to change information in the file, use the appropriate commands and dialog boxes in the software. -->
+<settings>
+    <group name="bigfonts">
+        <setting value="1" type="int" name="@arextfont2.shx"/>
+        <setting value="1" type="int" name="@extfont2.shx"/>
+        <setting value="1" type="int" name="arextfont.shx"/>
+        <setting value="1" type="int" name="arextfont2.shx"/>
+        <setting value="2" type="int" name="big_font.shx"/>
+        <setting value="1" type="int" name="bigfont.shx"/>
+        <setting value="5" type="int" name="bz.shx"/>
+        <setting value="5" type="int" name="cadsldxj.shx"/>
+        <setting value="5" type="int" name="cadslfsj.shx"/>
+        <setting value="5" type="int" name="cadslstj.shx"/>
+        <setting value="2" type="int" name="chineset.shx"/>
+        <setting value="2" type="int" name="dayum.shx"/>
+        <setting value="5" type="int" name="dxt.shx"/>
+        <setting value="1" type="int" name="extfont.shx"/>
+        <setting value="1" type="int" name="extfont2.shx"/>
+        <setting value="5" type="int" name="fs64f.shx"/>
+        <setting value="5" type="int" name="fssim.shx"/>
+        <setting value="5" type="int" name="gbcbig.shx"/>
+        <setting value="5" type="int" name="gbhzfs.shx"/>
+        <setting value="5" type="int" name="ht.shx"/>
+        <setting value="5" type="int" name="hts.shx"/>
+        <setting value="5" type="int" name="hz.shx"/>
+        <setting value="5" type="int" name="hzdx.shx"/>
+        <setting value="5" type="int" name="hzfs.shx"/>
+        <setting value="5" type="int" name="hzfs1.shx"/>
+        <setting value="5" type="int" name="hzsong.shx"/>
+        <setting value="5" type="int" name="hztxt0.shx"/>
+        <setting value="5" type="int" name="hztxtb.shx"/>
+        <setting value="5" type="int" name="hzzy.shx"/>
+        <setting value="1" type="int" name="japanese.shx"/>
+        <setting value="1" type="int" name="kanji-j1.shx"/>
+        <setting value="1" type="int" name="kanji-j2.shx"/>
+        <setting value="1" type="int" name="kelf1-k.shx"/>
+        <setting value="5" type="int" name="khz.shx"/>
+        <setting value="3" type="int" name="kshp.shx"/>
+        <setting value="2" type="int" name="rubonfs.shx"/>
+        <setting value="2" type="int" name="rubonm.shx"/>
+        <setting value="5" type="int" name="shztxt.shx"/>
+        <setting value="5" type="int" name="st.shx"/>
+        <setting value="3" type="int" name="visiohg.shx"/>
+        <setting value="1" type="int" name="visiojp.shx"/>
+        <setting value="2" type="int" name="visiotc.shx"/>
+        <setting value="3" type="int" name="whgdtxt.shx"/>
+        <setting value="3" type="int" name="whgtxt.shx"/>
+        <setting value="3" type="int" name="whtgtxt.shx"/>
+        <setting value="3" type="int" name="whtmtxt.shx"/>
+    </group>
+    <group name="mac_ui">
+        <setting value="0" type="int" name="top_mode"/>
+    </group>
+    <group name="p">
+        <group name="0_l">
+            <setting value="Letter_(8.50_x_11.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="11" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="8.5" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.25" type="double" name="y_max"/>
+            <setting value="0.25" type="double" name="y_min"/>
+        </group>
+        <group name="10_a">
+            <setting value="ANSI_E_(34.00_x_44.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="44" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="34" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="11_a">
+            <setting value="ANSI_E_(44.00_x_34.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="34" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="44" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="12_a">
+            <setting value="ARCH_C_(18.00_x_24.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="24" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="18" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="13_a">
+            <setting value="ARCH_C_(24.00_x_18.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="18" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="24" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="14_a">
+            <setting value="ARCH_D_(24.00_x_36.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="36" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="24" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="15_a">
+            <setting value="ARCH_D_(36.00_x_24.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="24" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="36" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="16_a">
+            <setting value="ARCH_E_(36.00_x_48.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="48" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="36" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="17_a">
+            <setting value="ARCH_E_(48.00_x_36.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="36" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="48" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="18_a">
+            <setting value="ARCH_E1_(30.00_x_42.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="42" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="30" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="19_a">
+            <setting value="ARCH_E1_(42.00_x_30.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="30" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="42" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="1_l">
+            <setting value="Legal_(8.50_x_14.0_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="14" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="8.5" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.25" type="double" name="y_max"/>
+            <setting value="0.25" type="double" name="y_min"/>
+        </group>
+        <group name="20_i">
+            <setting value="ISO_A4_(210.00_x_297.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="297" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="210" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="21_i">
+            <setting value="ISO_A4_(297.00_x_210.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="210" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="297" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="22_i">
+            <setting value="ISO_A3_(297.00_x_420.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="420" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="297" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="23_i">
+            <setting value="ISO_A3_(420.00_x_297.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="297" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="420" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="24_i">
+            <setting value="ISO_A2_(420.00_x_594.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="594" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="420" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="25_i">
+            <setting value="ISO_A2_(594.00_x_420.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="420" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="594" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="26_i">
+            <setting value="ISO_A1_(594.00_x_841.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="841" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="594" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="27_i">
+            <setting value="ISO_A1_(841.00_x_594.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="594" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="841" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="28_i">
+            <setting value="ISO_A0_(841.00_x_1189.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1189" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="841" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="29_i">
+            <setting value="ISO_A0_(1189.00_x_841.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="841" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="1189" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="2_a">
+            <setting value="ANSI_A_(8.50_x_11.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="11" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="8.5" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="30_i">
+            <setting value="ISO_B5_(182.00_x_237.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="237" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="182" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="31_i">
+            <setting value="ISO_B5_(237.00_x_182.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="182" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="237" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="32_i">
+            <setting value="ISO_B4_(250.00_x_354.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="354" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="250" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="33_i">
+            <setting value="ISO_B4_(354.00_x_250.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="250" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="354" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="34_i">
+            <setting value="ISO_B2_(500.00_x_707.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="707" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="500" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="35_i">
+            <setting value="ISO_B2_(707.00_x_500.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="500" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="707" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="36_i">
+            <setting value="ISO_B1_(707.00_x_1000.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1000" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="707" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="37_i">
+            <setting value="ISO_B1_(1000.00_x_707.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="707" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="1000" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="38_i">
+            <setting value="ISO_C5_(229.00_x_162.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="162" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="229" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="39_7">
+            <setting value="700mm_(700.00_x_1000.00_MM)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1000" type="double" name="height"/>
+            <setting value="1" type="int" name="units"/>
+            <setting value="700" type="double" name="width"/>
+            <setting value="7.5" type="double" name="x_max"/>
+            <setting value="7.5" type="double" name="x_min"/>
+            <setting value="20" type="double" name="y_max"/>
+            <setting value="20" type="double" name="y_min"/>
+        </group>
+        <group name="3_a">
+            <setting value="ANSI_A_(11.00_x_8.50_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="8.5" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="11" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="40_v">
+            <setting value="VGA_(480.00_x_640.00_Pixels)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="640" type="double" name="height"/>
+            <setting value="2" type="int" name="units"/>
+            <setting value="480" type="double" name="width"/>
+            <setting value="0" type="double" name="x_max"/>
+            <setting value="0" type="double" name="x_min"/>
+            <setting value="0" type="double" name="y_max"/>
+            <setting value="0" type="double" name="y_min"/>
+        </group>
+        <group name="41_x">
+            <setting value="XGA_(768.00_x_1024.00_Pixels)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1024" type="double" name="height"/>
+            <setting value="2" type="int" name="units"/>
+            <setting value="768" type="double" name="width"/>
+            <setting value="0" type="double" name="x_max"/>
+            <setting value="0" type="double" name="x_min"/>
+            <setting value="0" type="double" name="y_max"/>
+            <setting value="0" type="double" name="y_min"/>
+        </group>
+        <group name="42_s">
+            <setting value="Super_VGA_(600.00_x_800.00_Pixels)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="800" type="double" name="height"/>
+            <setting value="2" type="int" name="units"/>
+            <setting value="600" type="double" name="width"/>
+            <setting value="0" type="double" name="x_max"/>
+            <setting value="0" type="double" name="x_min"/>
+            <setting value="0" type="double" name="y_max"/>
+            <setting value="0" type="double" name="y_min"/>
+        </group>
+        <group name="43_x">
+            <setting value="XGA_Hi-Res_(1200.00_x_1600.00_Pixels)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1600" type="double" name="height"/>
+            <setting value="2" type="int" name="units"/>
+            <setting value="1200" type="double" name="width"/>
+            <setting value="0" type="double" name="x_max"/>
+            <setting value="0" type="double" name="x_min"/>
+            <setting value="0" type="double" name="y_max"/>
+            <setting value="0" type="double" name="y_min"/>
+        </group>
+        <group name="44_s">
+            <setting value="Sun_Hi-Res_(1280.00_x_1600.00_Pixels)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1600" type="double" name="height"/>
+            <setting value="2" type="int" name="units"/>
+            <setting value="1280" type="double" name="width"/>
+            <setting value="0" type="double" name="x_max"/>
+            <setting value="0" type="double" name="x_min"/>
+            <setting value="0" type="double" name="y_max"/>
+            <setting value="0" type="double" name="y_min"/>
+        </group>
+        <group name="45_s">
+            <setting value="Sun_Standard_(900.00_x_1152.00_Pixels)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="1152" type="double" name="height"/>
+            <setting value="2" type="int" name="units"/>
+            <setting value="900" type="double" name="width"/>
+            <setting value="0" type="double" name="x_max"/>
+            <setting value="0" type="double" name="x_min"/>
+            <setting value="0" type="double" name="y_max"/>
+            <setting value="0" type="double" name="y_min"/>
+        </group>
+        <group name="4_a">
+            <setting value="ANSI_B_(11.00_x_17.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="17" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="11" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="5_a">
+            <setting value="ANSI_B_(17.00_x_11.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="11" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="17" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="6_a">
+            <setting value="ANSI_C_(17.00_x_22.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="22" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="17" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="7_a">
+            <setting value="ANSI_C_(22.00_x_17.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="17" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="22" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="8_a">
+            <setting value="ANSI_D_(22.00_x_34.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="34" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="22" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+        <group name="9_a">
+            <setting value="ANSI_D_(34.00_x_22.00_Inches)" type="QString" name="canonical_name"/>
+            <setting value="0" type="int" name="custom"/>
+            <setting value="22" type="double" name="height"/>
+            <setting value="0" type="int" name="units"/>
+            <setting value="34" type="double" name="width"/>
+            <setting value="0.25" type="double" name="x_max"/>
+            <setting value="0.25" type="double" name="x_min"/>
+            <setting value="0.75" type="double" name="y_max"/>
+            <setting value="0.75" type="double" name="y_min"/>
+        </group>
+    </group>
+    <group name="plotters">
+        <group name="none">
+            <group name="papers">
+                <setting value="46" type="int" name="count"/>
+            </group>
+        </group>
+    </group>
+    <group name="prev_user_version">
+        <setting value="2019.0.0.1347" type="QString" name="version"/>
+    </group>
+    <group name="profile">
+        <setting value="" type="QString" name="description"/>
+        <setting value="fixed" type="QString" name="name"/>
+    </group>
+    <group name="profile_names">
+        <setting value="&lt;&lt;unnamed profile>>" type="QString" name="__unnamed profile__"/>
+    </group>
+    <group name="recent files">
+        <setting value="%FX_DOCUMENTS_PATH%/kucbaza/apma1/projekt/U00_Imadlo_Pneumatyczne_Z_Podstawa/HWH Przestrzen robocza 01.dwg" type="QString" name="file 1"/>
+        <setting value="%FX_HOME_PATH%/Downloads/HWH-zestawienia-2014_1.dwg" type="QString" name="file 10"/>
+        <setting value="%FX_DOCUMENTS_PATH%/kucbaza/apma1/projekt/U00_Imadlo_Pneumatyczne_Z_Podstawa/HWH-zestawienia-2014_1.dwg" type="QString" name="file 2"/>
+        <setting value="%FX_DOCUMENTS_PATH%/kucbaza/apma1/projekt/elektrosprzęgło/dokumentacja/L01_tulejka_przy_imadle/L01_tulejka_przy_imadle.dwg" type="QString" name="file 3"/>
+        <setting value="%FX_HOME_PATH%/.cache/.fr-yaImGW/U00_Imadlo_Pneumatyczne_Z_Podstawa/HWH-zestawienia-2014_1.dwg" type="QString" name="file 4"/>
+        <setting value="%FX_TEMP_PATH%/mozilla_tehftw0/Śruba-rzymska-od-ściany.dwg" type="QString" name="file 5"/>
+        <setting value="%FX_HOME_PATH%/.cache/.fr-3BsMDR/walek.dwg" type="QString" name="file 6"/>
+        <setting value="%FX_DOCUMENTS_PATH%/kucbaza/apma1/l/1/HWH-zestawienia-2010_1-pi10-6.dwg" type="QString" name="file 7"/>
+        <setting value="%FX_DOCUMENTS_PATH%/kucbaza/apma1/l/1/HWH-zestawienia-2013_1-pi10-6.dwg" type="QString" name="file 8"/>
+        <setting value="%FX_DOCUMENTS_PATH%/kucbaza/apma1/l/1/HWH-zestawienia-2014_1-pi10-6(1).dwg" type="QString" name="file 9"/>
+        <group name="pinned">
+            <setting value="false" type="bool" name="file 1"/>
+            <setting value="false" type="bool" name="file 10"/>
+            <setting value="false" type="bool" name="file 2"/>
+            <setting value="false" type="bool" name="file 3"/>
+            <setting value="false" type="bool" name="file 4"/>
+            <setting value="false" type="bool" name="file 5"/>
+            <setting value="false" type="bool" name="file 6"/>
+            <setting value="false" type="bool" name="file 7"/>
+            <setting value="false" type="bool" name="file 8"/>
+            <setting value="false" type="bool" name="file 9"/>
+        </group>
+    </group>
+    <group name="system">
+        <setting value="%FX_TEMP_PATH%" type="QString" name="previous_temppath"/>
+    </group>
+    <group name="variables">
+        <setting value="&lt;&lt;unnamed profile>>" type="QString" name="cprofile"/>
+    </group>
+</settings>

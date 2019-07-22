@@ -1,0 +1,2 @@
+macro index,pager i1 '<sync-mailbox><enter-command>source "/home/tehftw/.config/mutt"/accounts/refresher74.muttrc<enter><change-folder>!<enter>;<check-stats>'
+source /home/tehftw/.config/mutt/accounts/refresher74.muttrc

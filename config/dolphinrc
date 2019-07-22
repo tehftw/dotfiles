@@ -1,0 +1,68 @@
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=
+
+[DetailsMode]
+FontWeight=50
+IconSize=22
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+BrowseThroughArchives=true
+EditableUrl=true
+FilterBar=true
+GlobalViewProps=true
+LockPanels=false
+ShowCopyMoveMenu=true
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+ShowToolTips=true
+SortingChoice=CaseInsensitiveSorting
+SplitView=true
+UseTabForSwitchingSplitView=true
+Version=200
+ViewPropsTimestamp=2018,9,26,20,41,1
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1080=422
+Height 900=437
+Width 1600=435
+Width 1920=358
+
+[MainWindow]
+Height 1080=1021
+Height 768=723
+Height 900=875
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACZAAADmPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAABkA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAADmAAAAG4A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAGQD///8AAAADAAAGQAAAALn8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAGQAAAADIA////AAAF2QAAA5gAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1360=1360
+Width 1600=1600
+Width 1920=1920
+Window-Maximized 1080x1920=true
+Window-Maximized 768x1360=true
+Window-Maximized 900x1600=true
+
+[Open-with settings]
+CompletionMode=1
+History=image ,vlc,vim
+
+[PreviewSettings]
+Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+Height 1080=477
+Height 900=477
+Width 1600=512
+Width 1920=512
+
+[ViewPropertiesDialog]
+Height 1080=465
+Width 1920=368

@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=http://www.google.com/,https://www.wykop.pl/
+ComboIconCache[$e]=http://www.google.com/,text-html,https://www.wykop.pl/,$HOME/.cache/favicons/www.wykop.pl_static_wykoppl7_img_favicon-160x160.png

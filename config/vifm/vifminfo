@@ -1,0 +1,75 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/tehftw/
+	..
+1553023603
+'b
+	/home/tehftw/bin/
+	..
+1553023603
+'h
+	/home/tehftw/
+	..
+1553023603
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/tehftw
+	Downloads
+4
+d
+
+# Right window history (oldest to newest):
+D/home/tehftw
+	mnt
+19
+D/home
+	tehftw
+3
+D/
+	home
+5
+D/home
+	tehftw
+3
+D
+
+# Command line history (oldest to newest):
+:a Downloads/
+:help
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

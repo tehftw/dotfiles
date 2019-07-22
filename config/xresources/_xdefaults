@@ -1,0 +1,171 @@
+URxvt.font: xft:Inconsolata:size=14
+!URxvt.letterSpace: -6
+!abcdefghijklmnopqrstuvwxyz
+!ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+!	 colors for the sake of urxvt, and maybe some other few pwogwams :3
+! washed-out
+! #000000 black
+*color0: #202020
+*color8: #808080
+! #ff0000 red
+*color1: #b02020
+*colora: #d06060
+! #00ff00 green
+*color2: #20b020
+*color20: #60d060
+! #ffff00 yellow
+*color3: #b0b020
+*color11: #d0d060
+! #0000ff blue
+*color4: #2020b0
+*color12: #6060d0
+! #ff00ff magenta
+*color5: #b020b0
+*color13: #d060d0
+! #00ffff cyan
+*color6: #20b0b0
+*color14: #60d0d0
+! #ffffff white
+*color7: #a0a0a0
+*color15: #d0d0d0
+
+!URxvt.background: #e0e0e0
+!URxvt.foreground: #000000
+URxvt.foreground: #c0d0c0
+URxvt.background: #200000
+URxvt.cursorColor: magenta
+
+
+!!! bright colors
+!! #000000 black
+!*color0: #080808
+!*color8: #202020
+!! #ff0000 red
+!*color1: #e02020
+!*color9: #f04040
+!! #00ff00 green
+!*color2: #20e020
+!*color10: #40f040
+!! #ffff00 yellow
+!*color3: #e0e020
+!*color11: #f0f040
+!! #0000ff blue
+!*color4: #2020e0
+!*color12: #4040f0
+!! #ff00ff magenta
+!*color5: #e020e0
+!*color13: #e040f0
+!! #00ffff cyan
+!*color6: #20e0e0
+!*color14: #40f0f0
+!! #ffffff white
+!*color7: #c0c0c0
+!*color15: #f0f0f0
+!URxvt.background: #e0e0e0
+!URxvt.foreground: #100000
+
+
+!! dark
+!! #000000 black
+!*color0: #080808
+!*color8: #202020
+!! #ff0000 red
+!*color1: #802020
+!*color9: #f04040
+!! #00ff00 green
+!*color2: #20e020
+!*color10: #40f040
+!! #ffff00 yellow
+!*color3: #e0e020
+!*color11: #f0f040
+!! #0000ff blue
+!*color4: #2020e0
+!*color12: #4040f0
+!! #ff00ff magenta
+!*color5: #e020e0
+!*color13: #e040f0
+!! #00ffff cyan
+!*color6: #20e0e0
+!*color14: #40f0f0
+!! #ffffff white
+!URxvt.foreground: #a0c0a0
+!URxvt.background: #200000
+
+
+
+
+
+URxvt.transparent:	true
+!URxvt.tintColor:	#202020
+URxvt.shading:	15
+
+
+
+URxvt.scrollWithBuffer:  false
+URxvt.skipScroll:  true
+URxvt.jumpScroll: true
+
+!URxvt.fading:  25
+!URxvt.visualBell:  true ! this causes annoying inverting of bg-fg colors upon any event. trying to scroll to the left when there is not anything more to scroll through causes that, too
+
+!URxvt.intensityStyles: false
+URxvt.geometry: 80x24
+
+URxvt.scrollBar: false
+
+
+!
+
+
+!! Extensions
+URxvt.perl-ext-common: resize-font,selection-to-clipboard,keyboard-select
+!disabled: matcher
+URxvt.colorUL:		#4682B4
+!! url-select
+!URxvt.keysym.C-M-u:	perl:url-select:select_next
+!URxvt.url-select.launcher: linkhandler
+!URxvt.url-select.underline: true
+!! keyboard-select:
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+!! Matcher
+URxvt.url-launcher:	linkhandler
+URxvt.matcher.button:	1
+
+
+URxvt.keysym.C-minus:     resize-font:smaller
+URxvt.keysym.C-equal:      resize-font:bigger
+URxvt.keysym.C-plus:     resize-font:reset
+URxvt.keysym.C-question:  resize-font:show
+
+
+URxvt.keysym.M-u:
+
+
+
+
+
+
+!! { rofi
+rofi.modi: window,run,ssh,windowcd,keys,drun,combi
+
+rofi.font: Ubuntu Mono 14
+
+rofi.lines: 20
+rofi.width: 80
+rofi.line-margin: 0
+rofi.line-padding: 0
+rofi.separator-style: none
+rofi.bw: 2
+
+
+! "Color scheme for normal row" Set from: XResources
+rofi.color-normal:                   #222222, #b1b4b3, #222222, #005577, #b1b4b3
+! "Color scheme for urgent row" Set from: XResources
+rofi.color-urgent:                   #222222, #b1b4b3, #222222, #ff003d, #b1b4b3
+! "Color scheme for active row" Set from: XResources
+rofi.color-active:                   #222222, #b1b4b3, #222222, #007763, #b1b4b3
+! "Color scheme window" Set from: XResources
+rofi.color-window:                   #222222, #222222, #224422, #ff0000, #00ff00
+!! } // rofi

@@ -1,0 +1,19 @@
+! colors: krgybmgw
+*color1 : #000000
+*color2 : #e00000
+*color3 : #00e000
+*color4 : #e0e000
+*color5 : #0000e0
+*color6 : #e000e0
+*color7 : #00e0e0
+*color8 : #e0e0e0
+
+! bright:
+*color9 : #606060
+*color10: #c06060
+*color11: #60c060
+*color12: #c0c060
+*color13: #6060c0
+*color14: #c060c0
+*color15: #60c0c0
+*color16: #a0a0a0

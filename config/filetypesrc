@@ -1,0 +1,4 @@
+[EmbedSettings]
+embed-audio/midi=false
+embed-audio/x-vorbis+ogg=false
+embed-video/mp4=false

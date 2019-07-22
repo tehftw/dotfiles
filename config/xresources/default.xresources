@@ -1,0 +1,8 @@
+#include "font.Xresources"
+#include "urxvt-functionality.xresources"
+#include "rofi.xresources"
+
+#include "colorscheme-tehnight"
+#include "urxvt-looks.xresources"
+
+teh.default: true

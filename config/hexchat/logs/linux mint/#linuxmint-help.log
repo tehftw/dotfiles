@@ -1,0 +1,388 @@
+**** BEGIN LOGGING AT Tue Aug  7 13:29:29 2018
+
+Aug 07 13:29:29 *	Now talking on #linuxmint-help
+Aug 07 13:29:29 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Aug 07 13:29:29 *	Topic for #linuxmint-help set by zcot!~zcot@linuxmint/team/zcot (Mon Dec  4 19:47:52 2017)
+Aug 07 13:29:29 -ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+**** ENDING LOGGING AT Tue Aug  7 13:29:39 2018
+
+**** BEGIN LOGGING AT Tue Nov 13 21:23:07 2018
+
+Nov 13 21:23:07 *	Now talking on #linuxmint-help
+Nov 13 21:23:07 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Nov 13 21:23:07 *	Topic for #linuxmint-help set by r00t!~r00t@spotchat/staff/r00t (Sat Nov  3 02:52:19 2018)
+Nov 13 21:23:07 -ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+Nov 13 21:23:07 *	Weisnix (~wnx@SpotChat-g9br97.pools.vodafone-ip.de) has joined
+**** BEGIN LOGGING AT Tue Nov 13 21:23:20 2018
+
+Nov 13 21:23:20 *	Now talking on #linuxmint-help
+Nov 13 21:23:20 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Nov 13 21:23:20 *	Topic for #linuxmint-help set by r00t!~r00t@spotchat/staff/r00t (Sat Nov  3 02:52:19 2018)
+Nov 13 21:23:20 *	tehftw_ (~tehftw@SpotChat-2lsdgm.dynamic-ra-02.vectranet.pl) has joined
+Nov 13 21:23:20 -ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+Nov 13 21:23:48 <orcus>	but ... to be honest ... if you did not install dozens/hundreds of applications ... you might already been done by installing missing ones manually
+Nov 13 21:23:48 <orcus>	but ... to be honest ... if you did not install dozens/hundreds of applications ... you might already been done by installing missing ones manually
+Nov 13 21:24:06 *	zilverrug (~zilverrug@SpotChat-uaa7ee.1272.7lql.a03f.2a02.IP) has joined
+Nov 13 21:24:06 *	zilverrug (~zilverrug@SpotChat-uaa7ee.1272.7lql.a03f.2a02.IP) has joined
+Nov 13 21:24:17 *	johnbristol has quit (Quit: Leaving)
+Nov 13 21:24:17 *	johnbristol has quit (Quit: Leaving)
+Nov 13 21:24:29 *	Topic for #linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+Nov 13 21:24:29 *	Topic for #linuxmint-help set by r00t!~r00t@spotchat/staff/r00t (Sat Nov  3 02:52:19 2018)
+Nov 13 21:24:44 <xmetal>	that doesn't seem right to me (logic wise) ... like if you had Mint-meta-Cinnamon (via the ISO install) installed in a sense ... then installed Mint-meta-mate ... it seems wrong that removing the CINNAMON meta package at that point would remove critical stuff
+Nov 13 21:24:44 <xmetal>	that doesn't seem right to me (logic wise) ... like if you had Mint-meta-Cinnamon (via the ISO install) installed in a sense ... then installed Mint-meta-mate ... it seems wrong that removing the CINNAMON meta package at that point would remove critical stuff
+Nov 13 21:25:01 *	Weisnix has quit (Quit: Leaving)
+Nov 13 21:25:01 *	Weisnix has quit (Quit: Leaving)
+Nov 13 21:25:09 <xmetal>	like it should go "oh ... Mint-meta-mate is installed and needs stuff like "apt" ... i will leave that "  
+Nov 13 21:25:09 <xmetal>	like it should go "oh ... Mint-meta-mate is installed and needs stuff like "apt" ... i will leave that "  
+Nov 13 21:25:13 <surfer>	mib_r11gys: I thought so. Do you advise to change what's in my current file to circumvent the synaptic block from restoring the complete softs.list?
+Nov 13 21:25:13 <surfer>	mib_r11gys: I thought so. Do you advise to change what's in my current file to circumvent the synaptic block from restoring the complete softs.list?
+Nov 13 21:25:15 *	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de) has joined
+Nov 13 21:25:15 *	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de) has joined
+Nov 13 21:25:41 *	zilverrug has quit (Quit: Leaving)
+Nov 13 21:25:41 *	zilverrug has quit (Quit: Leaving)
+Nov 13 21:25:57 *	orcus is flying in circles around the spot
+Nov 13 21:25:57 *	orcus is flying in circles around the spot
+Nov 13 21:27:01 *	dovuzovec has quit (Quit: Leaving)
+Nov 13 21:27:01 *	dovuzovec has quit (Quit: Leaving)
+Nov 13 21:27:05 *	Belabela (~belabela@SpotChat-hts.86b.55.192.IP) has joined
+Nov 13 21:27:05 *	Belabela (~belabela@SpotChat-hts.86b.55.192.IP) has joined
+Nov 13 21:27:17 *	kratos (~kratos@SpotChat-eq2hn3.webflash.net.br) has joined
+Nov 13 21:27:17 *	kratos (~kratos@SpotChat-eq2hn3.webflash.net.br) has joined
+Nov 13 21:27:22 *	lex (~lex@SpotChat-e6k.1bd.110.109.IP) has joined
+Nov 13 21:27:22 *	lex (~lex@SpotChat-e6k.1bd.110.109.IP) has joined
+Nov 13 21:27:51 *	lex has quit (Quit: Leaving)
+Nov 13 21:27:51 *	lex has quit (Quit: Leaving)
+Nov 13 21:27:57 *	lex (~lex@SpotChat-e6k.1bd.110.109.IP) has joined
+Nov 13 21:27:57 *	lex (~lex@SpotChat-e6k.1bd.110.109.IP) has joined
+Nov 13 21:28:10 *	kratos has quit (Quit: Leaving)
+Nov 13 21:28:10 *	kratos has quit (Quit: Leaving)
+Nov 13 21:28:14 *	lex has quit (Quit: Leaving)
+Nov 13 21:28:14 *	lex has quit (Quit: Leaving)
+Nov 13 21:28:20 *	wnx has quit (Quit: Leaving)
+Nov 13 21:28:20 *	wnx has quit (Quit: Leaving)
+Nov 13 21:28:31 *	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de) has joined
+Nov 13 21:28:31 *	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de) has joined
+Nov 13 21:28:48 *	jl (~jl@SpotChat-tmkedg.user.ono.com) has joined
+Nov 13 21:28:48 *	jl (~jl@SpotChat-tmkedg.user.ono.com) has joined
+Nov 13 21:28:50 *	max (~max@SpotChat-ftl.uqd.129.1.IP) has joined
+Nov 13 21:28:50 *	max (~max@SpotChat-ftl.uqd.129.1.IP) has joined
+Nov 13 21:28:53 *	panne has quit (Quit: terminating Konversation...)
+Nov 13 21:28:53 *	panne has quit (Quit: terminating Konversation...)
+Nov 13 21:29:03 *	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP) has joined
+Nov 13 21:29:03 *	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP) has joined
+Nov 13 21:29:14 *	jl has quit (Quit: Leaving)
+Nov 13 21:29:14 *	jl has quit (Quit: Leaving)
+Nov 13 21:29:32 *	panne has quit (Quit: terminating Konversation...)
+Nov 13 21:29:32 *	panne has quit (Quit: terminating Konversation...)
+Nov 13 21:29:39 *	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP) has joined
+Nov 13 21:29:39 *	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP) has joined
+Nov 13 21:29:45 <mib_r11gys>	surfer: you could save that file as .bak then change the .conf to user-session=cinnamon then try synaptic again
+Nov 13 21:29:45 <mib_r11gys>	surfer: you could save that file as .bak then change the .conf to user-session=cinnamon then try synaptic again
+Nov 13 21:30:17 *	ZaPPeRoo has quit (Quit: Leaving)
+Nov 13 21:30:17 *	ZaPPeRoo has quit (Quit: Leaving)
+Nov 13 21:31:18 *	sergey (~sergey@SpotChat-4c4.4r8.239.91.IP) has joined
+Nov 13 21:31:18 *	sergey (~sergey@SpotChat-4c4.4r8.239.91.IP) has joined
+Nov 13 21:31:24 <surfer>	mib_r11gys: Can I just open it with simple text-editor?
+Nov 13 21:31:24 <surfer>	mib_r11gys: Can I just open it with simple text-editor?
+Nov 13 21:31:53 *	sergey has quit (Quit: Leaving)
+Nov 13 21:31:53 *	sergey has quit (Quit: Leaving)
+Nov 13 21:31:57 <surfer>	mib_r11gys: Like I just read it.
+Nov 13 21:31:57 <surfer>	mib_r11gys: Like I just read it.
+Nov 13 21:32:00 *	mint (~mint@SpotChat-kfn.eav.141.62.IP) has joined
+Nov 13 21:32:00 *	mint (~mint@SpotChat-kfn.eav.141.62.IP) has joined
+Nov 13 21:32:26 <tehftw_>	Hello. I'm having some problem with Wi-Fi - the connection is working, but I want to switch to a different network( my router has 2.4G and 5G network, and I want to switch to 5G ).
+Nov 13 21:32:26 <tehftw_>	I tried using `nmcli dev wifi` and `nmcli dev wifi list` to list the other networks as per archwiki's suggestions, however it only shows my currently connected network. There is a lot of other networks that also aren't listed by this program(my phone sees the others, but nmcli doesn't list them). I tried running nmcli with sudo, with sudo su, restarting all terminal windows, but it still only shows my current network. 
+Nov 13 21:32:26 <tehftw_>	A minute ago I ran this command and it showed me all the other networks with signal strength at all, yet now, nothing. What could be the problem here?
+Nov 13 21:32:26 <tehftw_>	I switched from the stock Xfce to i3wm(muh tilings), though honestly I don't want to go back to the Xfce just to check out the network manager, and I was looking for a commandline, nerdy way to fix it all.;w
+Nov 13 21:32:26 <tehftw_>	Hello. I'm having some problem with Wi-Fi - the connection is working, but I want to switch to a different network( my router has 2.4G and 5G network, and I want to switch to 5G ).
+Nov 13 21:32:26 <tehftw_>	I tried using `nmcli dev wifi` and `nmcli dev wifi list` to list the other networks as per archwiki's suggestions, however it only shows my currently connected network. There is a lot of other networks that also aren't listed by this program(my phone sees the others, but nmcli doesn't list them). I tried running nmcli with sudo, with sudo su, restarting all terminal windows, but it still only shows my current network. 
+Nov 13 21:32:26 <tehftw_>	A minute ago I ran this command and it showed me all the other networks with signal strength at all, yet now, nothing. What could be the problem here?
+Nov 13 21:32:28 <tehftw_>	I switched from the stock Xfce to i3wm(muh tilings), though honestly I don't want to go back to the Xfce just to check out the network manager, and I was looking for a commandline, nerdy way to fix it all.;w
+Nov 13 21:32:30 *	mint is now known as Guest98820
+Nov 13 21:32:30 *	mint is now known as Guest98820
+Nov 13 21:32:38 <mib_r11gys>	surfer: yes, you need sudo
+Nov 13 21:32:38 <mib_r11gys>	surfer: yes, you need sudo
+**** ENDING LOGGING AT Tue Nov 13 21:33:06 2018
+
+**** BEGIN LOGGING AT Tue Nov 13 21:33:06 2018
+
+**** ENDING LOGGING AT Tue Nov 13 21:33:06 2018
+
+**** BEGIN LOGGING AT Tue Nov 13 21:33:06 2018
+
+Nov 13 21:33:07 *	csco (~csco@SpotChat-lk5.pl0.59.142.IP) has joined
+Nov 13 21:33:07 *	csco (~csco@SpotChat-lk5.pl0.59.142.IP) has joined
+**** ENDING LOGGING AT Tue Nov 13 21:33:15 2018
+
+**** BEGIN LOGGING AT Tue Nov 13 21:33:15 2018
+
+**** ENDING LOGGING AT Tue Nov 13 21:33:15 2018
+
+**** BEGIN LOGGING AT Tue Nov 13 21:33:15 2018
+
+Nov 13 21:33:23 *	nick (~nick@SpotChat-sha9iu.o0p9.ddqa.0bb6.2001.IP) has joined
+Nov 13 21:33:23 *	nick (~nick@SpotChat-sha9iu.o0p9.ddqa.0bb6.2001.IP) has joined
+Nov 13 21:33:53 <surfer>	mib_r11gys: OK. But now first I go follow other tip to deinstall everything Cinnamon except the meta-package.
+Nov 13 21:33:53 <surfer>	mib_r11gys: OK. But now first I go follow other tip to deinstall everything Cinnamon except the meta-package.
+Nov 13 21:33:53 *	nick is now known as Guest51005
+Nov 13 21:33:53 *	nick is now known as Guest51005
+Nov 13 21:33:59 *	sputnik (~user@SpotChat-ln8pai.customer.bnet.at) has joined
+Nov 13 21:33:59 *	sputnik (~user@SpotChat-ln8pai.customer.bnet.at) has joined
+Nov 13 21:34:08 *	polloaster (~polloaster@SpotChat-qi6.j69.13.87.IP) has joined
+Nov 13 21:34:08 *	polloaster (~polloaster@SpotChat-qi6.j69.13.87.IP) has joined
+Nov 13 21:34:14 *	knight has quit (Connection closed)
+Nov 13 21:34:14 *	knight has quit (Connection closed)
+Nov 13 21:34:15 <mib_r11gys>	surfer: agreed
+Nov 13 21:34:15 <mib_r11gys>	surfer: agreed
+Nov 13 21:34:18 *	novis has quit (Quit: Leaving)
+Nov 13 21:34:18 *	novis has quit (Quit: Leaving)
+Nov 13 21:34:38 *	Belabela has quit (Quit: Leaving)
+Nov 13 21:34:38 *	Belabela has quit (Quit: Leaving)
+Nov 13 21:35:01 *	Guest98820 has quit (Quit: Leaving)
+Nov 13 21:35:01 *	Guest98820 has quit (Quit: Leaving)
+Nov 13 21:35:09 *	paul (~paul@SpotChat-pg32gh.4a8i.tcri.100e.2600.IP) has joined
+Nov 13 21:35:09 *	paul (~paul@SpotChat-pg32gh.4a8i.tcri.100e.2600.IP) has joined
+Nov 13 21:35:10 *	koboldh (~koboldh@SpotChat-bkeocu.f9ea.nfoc.0e34.2a01.IP) has joined
+Nov 13 21:35:10 *	koboldh (~koboldh@SpotChat-bkeocu.f9ea.nfoc.0e34.2a01.IP) has joined
+Nov 13 21:36:01 *	polloaster has quit (Quit: Leaving)
+Nov 13 21:36:01 *	polloaster has quit (Quit: Leaving)
+Nov 13 21:36:11 *	paul has quit (Quit: Leaving)
+Nov 13 21:36:11 *	paul has quit (Quit: Leaving)
+Nov 13 21:36:35 *	Guest51005 has quit (Quit: Leaving)
+Nov 13 21:36:35 *	Guest51005 has quit (Quit: Leaving)
+Nov 13 21:37:04 <surfer>	mib_r11gys: No, the list is too long... I am just afraid that after changing this one file it might be sucesful on itself, but then the next blockade is popping up... I will just do clean install again.
+Nov 13 21:37:04 <surfer>	mib_r11gys: No, the list is too long... I am just afraid that after changing this one file it might be sucesful on itself, but then the next blockade is popping up... I will just do clean install again.
+Nov 13 21:37:45 *	Dr_Coke has quit (Connection closed)
+Nov 13 21:37:45 *	Dr_Coke has quit (Connection closed)
+Nov 13 21:37:48 *	panda (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de) has joined
+Nov 13 21:37:48 *	panda (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de) has joined
+Nov 13 21:37:51 *	Coke (~Dr_Coke@SpotChat-v6pnlv.tpgi.com.au) has joined
+Nov 13 21:37:51 *	Coke (~Dr_Coke@SpotChat-v6pnlv.tpgi.com.au) has joined
+Nov 13 21:37:54 *	surfer has quit (Quit: Leaving)
+Nov 13 21:37:54 *	surfer has quit (Quit: Leaving)
+Nov 13 21:38:03 *	naiara (~naiara@SpotChat-vsl.ebh.85.177.IP) has joined
+Nov 13 21:38:03 *	naiara (~naiara@SpotChat-vsl.ebh.85.177.IP) has joined
+Nov 13 21:38:14 *	panda_ (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de) has joined
+Nov 13 21:38:14 *	panda_ (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de) has joined
+Nov 13 21:38:22 *	karl (~karl@SpotChat-0847l8.cm.kabsi.at) has joined
+Nov 13 21:38:22 *	karl (~karl@SpotChat-0847l8.cm.kabsi.at) has joined
+Nov 13 21:38:33 *	dell has quit (Quit: Leaving)
+Nov 13 21:38:33 *	dell has quit (Quit: Leaving)
+Nov 13 21:38:35 *	panda_ has quit (Quit: Leaving)
+Nov 13 21:38:35 *	panda_ has quit (Quit: Leaving)
+Nov 13 21:38:50 *	karl has quit (Quit: Leaving)
+Nov 13 21:38:50 *	karl has quit (Quit: Leaving)
+Nov 13 21:39:10 *	panda has quit (Quit: Leaving)
+Nov 13 21:39:10 *	panda has quit (Quit: Leaving)
+Nov 13 21:39:24 *	abcd (~porboy@SpotChat-27orog.nctc.net) has joined
+Nov 13 21:39:24 *	abcd (~porboy@SpotChat-27orog.nctc.net) has joined
+Nov 13 21:39:41 *	watchcat approves
+Nov 13 21:39:41 *	watchcat approves
+Nov 13 21:39:52 <RocketWolf>	tehftw_⨠ there are plenty of linux apps to scan your network. changing your DE is not going to change a malfunctioning app
+Nov 13 21:39:52 <RocketWolf>	tehftw_⨠ there are plenty of linux apps to scan your network. changing your DE is not going to change a malfunctioning app
+Nov 13 21:39:59 *	frenk (~frenk@SpotChat-2nt.6ji.186.193.IP) has joined
+Nov 13 21:39:59 *	frenk (~frenk@SpotChat-2nt.6ji.186.193.IP) has joined
+Nov 13 21:40:12 *	mark2 (~mark2@SpotChat-fuuchf.cable.virginm.net) has joined
+Nov 13 21:40:12 *	mark2 (~mark2@SpotChat-fuuchf.cable.virginm.net) has joined
+Nov 13 21:40:21 *	frenk has quit (Quit: Leaving)
+Nov 13 21:40:21 *	frenk has quit (Quit: Leaving)
+Nov 13 21:40:22 *	tecnecio has quit (Connection closed)
+Nov 13 21:40:22 *	tecnecio has quit (Connection closed)
+Nov 13 21:41:05 *	hamid (~hamid@SpotChat-4ov.kkh.155.105.IP) has joined
+Nov 13 21:41:05 *	hamid (~hamid@SpotChat-4ov.kkh.155.105.IP) has joined
+Nov 13 21:41:10 <RocketWolf>	tehftw_⨠ as for switching from 2.4Ghz to 5Ghz , this is done in the router settings itself since it is the router frequency you are choosing to switch to
+Nov 13 21:41:10 <RocketWolf>	tehftw_⨠ as for switching from 2.4Ghz to 5Ghz , this is done in the router settings itself since it is the router frequency you are choosing to switch to
+Nov 13 21:41:31 <tehftw_>	RocketWolf >> I didn't switch because of any application malfunctioning. Everything works great on both Xfce and i3wm. My problem is, that I can't see any network in nmcli, that I'm not already connected to.
+Nov 13 21:41:31 <tehftw_>	RocketWolf >> I didn't switch because of any application malfunctioning. Everything works great on both Xfce and i3wm. My problem is, that I can't see any network in nmcli, that I'm not already connected to.
+Nov 13 21:42:02 *	jbc-linux (~jbc-linux@SpotChat-o1op7p.user.start.ca) has joined
+Nov 13 21:42:02 *	jbc-linux (~jbc-linux@SpotChat-o1op7p.user.start.ca) has joined
+Nov 13 21:42:06 *	bernie (~bernie@SpotChat-p2r.8a3.149.95.IP) has joined
+Nov 13 21:42:06 *	bernie (~bernie@SpotChat-p2r.8a3.149.95.IP) has joined
+Nov 13 21:42:12 *	yasar (~yasar@SpotChat-krs.2v1.231.88.IP) has joined
+Nov 13 21:42:12 *	yasar (~yasar@SpotChat-krs.2v1.231.88.IP) has joined
+Nov 13 21:42:13 *	caesar (~caesar@SpotChat-06babg.access.telenet.be) has joined
+Nov 13 21:42:13 *	caesar (~caesar@SpotChat-06babg.access.telenet.be) has joined
+Nov 13 21:42:14 *	jbc-linux has quit (Quit: Leaving)
+Nov 13 21:42:14 *	jbc-linux has quit (Quit: Leaving)
+Nov 13 21:42:17 <RocketWolf>	tehftw_⨠ https://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/
+Nov 13 21:42:17 <RocketWolf>	tehftw_⨠ https://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/
+Nov 13 21:42:19 *	mark2 has quit (Connection closed)
+Nov 13 21:42:19 *	mark2 has quit (Connection closed)
+Nov 13 21:42:37 *	yasar has quit (Quit: Leaving)
+Nov 13 21:42:37 *	yasar has quit (Quit: Leaving)
+Nov 13 21:42:37 *	bernie has quit (Quit: Leaving)
+Nov 13 21:42:37 *	bernie has quit (Quit: Leaving)
+Nov 13 21:42:44 <tehftw_>	RocketWolf: My router spawns two networks by default, so I have "tehftw_2.4G" and "tehftw_5G" networks available all the time. It's not a router problem, it's something on my computer.
+Nov 13 21:42:44 <tehftw_>	RocketWolf: My router spawns two networks by default, so I have "tehftw_2.4G" and "tehftw_5G" networks available all the time. It's not a router problem, it's something on my computer.
+Nov 13 21:43:32 *	cbg has quit (Connection closed)
+Nov 13 21:43:32 *	cbg has quit (Connection closed)
+Nov 13 21:43:40 <RocketWolf>	nmcli is for managing linux server networking.
+Nov 13 21:43:40 <RocketWolf>	nmcli is for managing linux server networking.
+Nov 13 21:43:49 <RocketWolf>	routers dont spawn anything
+Nov 13 21:43:49 <RocketWolf>	routers dont spawn anything
+Nov 13 21:44:05 *	alljur (~alljur@SpotChat-nkakhk.retail.telecomitalia.it) has joined
+Nov 13 21:44:05 *	alljur (~alljur@SpotChat-nkakhk.retail.telecomitalia.it) has joined
+Nov 13 21:44:32 <RocketWolf>	the router has two frequencies available for your use, the older 2.4ghz which everything in your home utilizes and a 5ghz frequency that is far less used
+Nov 13 21:44:32 <RocketWolf>	the router has two frequencies available for your use, the older 2.4ghz which everything in your home utilizes and a 5ghz frequency that is far less used
+Nov 13 21:44:42 *	navydave (~navydave@SpotChat-a0losi.ip.windstream.net) has joined
+Nov 13 21:44:42 *	navydave (~navydave@SpotChat-a0losi.ip.windstream.net) has joined
+Nov 13 21:44:43 *	navydave_ (~navydave@SpotChat-a0losi.ip.windstream.net) has joined
+Nov 13 21:44:43 *	navydave_ (~navydave@SpotChat-a0losi.ip.windstream.net) has joined
+Nov 13 21:44:55 <RocketWolf>	and less cluuttered
+Nov 13 21:44:55 <RocketWolf>	and less cluuttered
+Nov 13 21:45:13 *	navydave has quit (Quit: Leaving)
+Nov 13 21:45:13 *	navydave has quit (Quit: Leaving)
+Nov 13 21:45:20 *	navydave_ has quit (Quit: Leaving)
+Nov 13 21:45:20 *	navydave_ has quit (Quit: Leaving)
+Nov 13 21:45:35 <RocketWolf>	tehftw_⨠ use the link I gave you for learning how to use a linux server networking manager
+Nov 13 21:45:35 <RocketWolf>	tehftw_⨠ use the link I gave you for learning how to use a linux server networking manager
+Nov 13 21:45:48 *	caesar has quit (Quit: Leaving)
+Nov 13 21:45:48 *	caesar has quit (Quit: Leaving)
+Nov 13 21:45:53 *	caesar (~caesar@SpotChat-06babg.access.telenet.be) has joined
+Nov 13 21:45:53 *	caesar (~caesar@SpotChat-06babg.access.telenet.be) has joined
+Nov 13 21:45:53 *	alljur has quit (Quit: Leaving)
+Nov 13 21:45:53 *	alljur has quit (Quit: Leaving)
+Nov 13 21:45:56 <tehftw_>	RocketWolf: Yes, I know that. My router is working correctly, the only problem is with my computer not seeing the other networks. My phone lists all the other neighbors in Wireless menu, but my computer and nmcli don't see them.
+Nov 13 21:45:56 <tehftw_>	RocketWolf: Yes, I know that. My router is working correctly, the only problem is with my computer not seeing the other networks. My phone lists all the other neighbors in Wireless menu, but my computer and nmcli don't see them.
+Nov 13 21:46:15 *	norbert (~norbert@SpotChat-7lofqe.dip0.t-ipconnect.de) has joined
+Nov 13 21:46:15 *	norbert (~norbert@SpotChat-7lofqe.dip0.t-ipconnect.de) has joined
+Nov 13 21:46:20 *	Coke has quit (Quit: Leaving)
+Nov 13 21:46:20 *	Coke has quit (Quit: Leaving)
+Nov 13 21:46:34 <RocketWolf>	read thru the man pages of nmcli 
+Nov 13 21:46:34 <RocketWolf>	read thru the man pages of nmcli 
+Nov 13 21:46:35 *	franclip (~franclip@SpotChat-jq8.0s3.72.141.IP) has joined
+Nov 13 21:46:35 *	franclip (~franclip@SpotChat-jq8.0s3.72.141.IP) has joined
+Nov 13 21:46:41 *	franclip_ (~franclip@SpotChat-jq8.0s3.72.141.IP) has joined
+Nov 13 21:46:41 *	franclip_ (~franclip@SpotChat-jq8.0s3.72.141.IP) has joined
+Nov 13 21:46:44 *	norbert has quit (Quit: Leaving)
+Nov 13 21:46:44 *	norbert has quit (Quit: Leaving)
+Nov 13 21:47:23 *	cris (~cris@SpotChat-6v2.d68.98.177.IP) has joined
+Nov 13 21:47:23 *	cris (~cris@SpotChat-6v2.d68.98.177.IP) has joined
+Nov 13 21:47:38 *	cris has quit (Quit: Leaving)
+Nov 13 21:47:38 *	cris has quit (Quit: Leaving)
+Nov 13 21:47:40 *	jay has quit (Quit: Leaving)
+Nov 13 21:47:40 *	jay has quit (Quit: Leaving)
+Nov 13 21:47:43 *	hamid has quit (Quit: Leaving)
+Nov 13 21:47:43 *	hamid has quit (Quit: Leaving)
+Nov 13 21:47:44 <franclip_>	Hi friends
+Nov 13 21:47:44 <franclip_>	Hi friends
+Nov 13 21:47:51 *	chris (~chris@SpotChat-gc6276.cg.shawcable.net) has joined
+Nov 13 21:47:51 *	chris (~chris@SpotChat-gc6276.cg.shawcable.net) has joined
+Nov 13 21:48:03 *	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP) has joined
+Nov 13 21:48:03 *	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP) has joined
+Nov 13 21:48:08 *	gjf has quit (Quit: Leaving)
+Nov 13 21:48:08 *	gjf has quit (Quit: Leaving)
+Nov 13 21:48:17 <chris>	hi guys looking to use PIA manager any tips? I'd like a US VPN so I can watch american netflix
+Nov 13 21:48:17 <chris>	hi guys looking to use PIA manager any tips? I'd like a US VPN so I can watch american netflix
+Nov 13 21:48:19 *	jan3 (~jan3@SpotChat-0l8.9i2.145.185.IP) has joined
+Nov 13 21:48:19 *	jan3 (~jan3@SpotChat-0l8.9i2.145.185.IP) has joined
+Nov 13 21:48:28 <franclip_>	every time i start to boot my Linux mint cinnamon, file system check is happening and it is running forever
+Nov 13 21:48:28 <franclip_>	every time i start to boot my Linux mint cinnamon, file system check is happening and it is running forever
+Nov 13 21:48:31 *	jan3 has quit (Connection closed)
+Nov 13 21:48:31 *	jan3 has quit (Connection closed)
+Nov 13 21:48:51 <pallonen_>	is there a way to run a program when using shutdown command? would like it to run bleachbit before shutting down/restarting
+Nov 13 21:48:51 <pallonen_>	is there a way to run a program when using shutdown command? would like it to run bleachbit before shutting down/restarting
+Nov 13 21:48:57 <franclip_>	I even re-installed the linux mint several times but can't able to resolve the problem
+Nov 13 21:48:57 <franclip_>	I even re-installed the linux mint several times but can't able to resolve the problem
+Nov 13 21:48:59 *	cesar (~cesar@SpotChat-i9q.2q6.5.179.IP) has joined
+Nov 13 21:48:59 *	cesar (~cesar@SpotChat-i9q.2q6.5.179.IP) has joined
+Nov 13 21:49:01 <RocketWolf>	your DE and your WM dont look for networks, your network manager will "display" the networks you are connected to. Other apps are designed to "scan for" available netowrks like the app on your mobile phone. THe apps can malfunction and you need to contact the group or person that created the app
+Nov 13 21:49:01 <RocketWolf>	your DE and your WM dont look for networks, your network manager will "display" the networks you are connected to. Other apps are designed to "scan for" available netowrks like the app on your mobile phone. THe apps can malfunction and you need to contact the group or person that created the app
+Nov 13 21:49:15 *	cesar has quit (Quit: Leaving)
+Nov 13 21:49:15 *	cesar has quit (Quit: Leaving)
+Nov 13 21:49:18 <franclip_>	Does any know how to resolve this issue ?
+Nov 13 21:49:18 <franclip_>	Does any know how to resolve this issue ?
+Nov 13 21:49:30 <RocketWolf>	chris⨠ this is linux mint help 
+Nov 13 21:49:30 <RocketWolf>	chris⨠ this is linux mint help 
+Nov 13 21:49:48 <chris>	oh sorry rocketwolf em where do I click to get i guess app help
+Nov 13 21:49:48 <chris>	oh sorry rocketwolf em where do I click to get i guess app help
+Nov 13 21:50:00 <RocketWolf>	pallonen_⨠ you can write a cron job to do that
+Nov 13 21:50:00 <RocketWolf>	pallonen_⨠ you can write a cron job to do that
+Nov 13 21:50:23 *	mint (~mint@SpotChat-oii.o33.79.36.IP) has joined
+Nov 13 21:50:23 *	mint (~mint@SpotChat-oii.o33.79.36.IP) has joined
+Nov 13 21:50:42 <RocketWolf>	chris⨠ type /j #linuxmint-chat
+Nov 13 21:50:42 <RocketWolf>	chris⨠ type /j #linuxmint-chat
+Nov 13 21:50:51 *	mint is now known as Guest89689
+Nov 13 21:50:51 *	mint is now known as Guest89689
+Nov 13 21:50:58 *	Guest89689 has quit (Quit: Leaving)
+Nov 13 21:50:58 *	Guest89689 has quit (Quit: Leaving)
+Nov 13 21:50:59 <pallonen_>	RocketWolf: you just throw me out of the ring =) will try to decypher that one but thank you in any case =)
+Nov 13 21:50:59 <pallonen_>	RocketWolf: you just throw me out of the ring =) will try to decypher that one but thank you in any case =)
+Nov 13 21:51:02 <chris>	will do 
+Nov 13 21:51:02 <chris>	will do 
+Nov 13 21:51:10 *	matheus (~matheus@SpotChat-212.6ls.223.177.IP) has joined
+Nov 13 21:51:10 *	matheus (~matheus@SpotChat-212.6ls.223.177.IP) has joined
+Nov 13 21:51:17 *	matheus has quit (Quit: Leaving)
+Nov 13 21:51:17 *	matheus has quit (Quit: Leaving)
+Nov 13 21:51:29 *	care (~care@SpotChat-i7tde8.res.rr.com) has joined
+Nov 13 21:51:29 *	care (~care@SpotChat-i7tde8.res.rr.com) has joined
+Nov 13 21:51:39 *	care has quit (Quit: Leaving)
+Nov 13 21:51:39 *	care has quit (Quit: Leaving)
+Nov 13 21:52:16 *	mint (~mint@SpotChat-sbtcac.dhcp.inet.fi) has joined
+Nov 13 21:52:16 *	mint (~mint@SpotChat-sbtcac.dhcp.inet.fi) has joined
+Nov 13 21:52:21 *	neo (~n30@SpotChat-gk3.6bv.70.103.IP) has joined
+Nov 13 21:52:21 *	neo (~n30@SpotChat-gk3.6bv.70.103.IP) has joined
+Nov 13 21:52:34 *	neo has quit (Quit: Leaving)
+Nov 13 21:52:34 *	neo has quit (Quit: Leaving)
+Nov 13 21:52:44 *	mint_ (~mint@SpotChat-0dakkh.3h0f.clgs.2698.2a02.IP) has joined
+Nov 13 21:52:44 *	mint_ (~mint@SpotChat-0dakkh.3h0f.clgs.2698.2a02.IP) has joined
+Nov 13 21:52:44 *	mint has quit (Quit: Leaving)
+Nov 13 21:52:44 *	mint has quit (Quit: Leaving)
+Nov 13 21:53:18 *	mint_ has quit (Quit: Leaving)
+Nov 13 21:53:18 *	mint_ has quit (Quit: Leaving)
+Nov 13 21:53:26 <RocketWolf>	franclip_⨠ there are lost or corrupt files on your system and if you stop the file system check before it finishes, you can end up with more corrupt files or crosslinked files or lost files that mwill make it take longer to boot up the next time
+Nov 13 21:53:26 <RocketWolf>	franclip_⨠ there are lost or corrupt files on your system and if you stop the file system check before it finishes, you can end up with more corrupt files or crosslinked files or lost files that mwill make it take longer to boot up the next time
+Nov 13 21:53:29 <zcot>	xmetal: yea, the latest mints have pretty integrated meta packages. just so you can get an example: https://gist.github.com/zcot/81a9c0ec1fe8352094f9ca9a9b28bbc6 but pretty sure i saw someone in here purge a meta package then reinstall core only(still missing some other extraneous items but not a system killer at least)
+Nov 13 21:53:29 <zcot>	xmetal: yea, the latest mints have pretty integrated meta packages. just so you can get an example: https://gist.github.com/zcot/81a9c0ec1fe8352094f9ca9a9b28bbc6 but pretty sure i saw someone in here purge a meta package then reinstall core only(still missing some other extraneous items but not a system killer at least)
+Nov 13 21:53:44 <RocketWolf>	franclip_⨠ this can cause the boot up process to take longer eand longer each time you interupt it
+Nov 13 21:53:44 <RocketWolf>	franclip_⨠ this can cause the boot up process to take longer eand longer each time you interupt it
+Nov 13 21:53:46 *	vvf (~vvf@SpotChat-tmj.tbd.61.46.IP) has joined
+Nov 13 21:53:46 *	vvf (~vvf@SpotChat-tmj.tbd.61.46.IP) has joined
+Nov 13 21:53:55 *	staralfur (~staralfur@SpotChat-d3f.27l.128.185.IP) has joined
+Nov 13 21:53:55 *	staralfur (~staralfur@SpotChat-d3f.27l.128.185.IP) has joined
+Nov 13 21:53:56 *	vvf has quit (Quit: Leaving)
+Nov 13 21:53:56 *	vvf has quit (Quit: Leaving)
+Nov 13 21:54:02 *	user_ (~user@SpotChat-tm0.h0j.249.173.IP) has joined
+Nov 13 21:54:02 *	user_ (~user@SpotChat-tm0.h0j.249.173.IP) has joined
+Nov 13 21:54:07 *	user_ has quit (Connection closed)
+Nov 13 21:54:07 *	user_ has quit (Connection closed)
+Nov 13 21:54:09 *	edgar360 (~edgar360@SpotChat-kju.t5p.217.189.IP) has joined
+Nov 13 21:54:09 *	edgar360 (~edgar360@SpotChat-kju.t5p.217.189.IP) has joined
+Nov 13 21:54:24 *	mint (~mint@SpotChat-mh4uk1.user.ono.com) has joined
+Nov 13 21:54:24 *	mint (~mint@SpotChat-mh4uk1.user.ono.com) has joined
+Nov 13 21:54:25 *	yudzhyn (~yudzhyn@SpotChat-6st.pqa.212.178.IP) has joined
+Nov 13 21:54:25 *	yudzhyn (~yudzhyn@SpotChat-6st.pqa.212.178.IP) has joined
+Nov 13 21:54:29 *	l0ndoner (~l0ndoner@SpotChat-k5acui.dsl.as9105.com) has joined
+Nov 13 21:54:29 *	l0ndoner (~l0ndoner@SpotChat-k5acui.dsl.as9105.com) has joined
+Nov 13 21:54:40 *	sebastien (~sebastien@SpotChat-mabal0.80fv.ve40.0e34.2a01.IP) has joined
+Nov 13 21:54:40 *	sebastien (~sebastien@SpotChat-mabal0.80fv.ve40.0e34.2a01.IP) has joined
+Nov 13 21:54:54 *	mint is now known as Guest15123
+Nov 13 21:54:54 *	mint is now known as Guest15123
+Nov 13 21:55:06 *	nyamien (~nyamien@SpotChat-hvk.cff.210.41.IP) has joined
+Nov 13 21:55:06 *	nyamien (~nyamien@SpotChat-hvk.cff.210.41.IP) has joined
+Nov 13 21:55:20 *	nyamien has quit (Quit: Leaving)
+Nov 13 21:55:20 *	nyamien has quit (Quit: Leaving)
+Nov 13 21:55:23 <franclip_>	agreed Rocketwolf but i did allow the file system check to run for 6 hours when i first booted up the linux , then only i suspected whether this filesystem check is an issue
+Nov 13 21:55:23 <franclip_>	agreed Rocketwolf but i did allow the file system check to run for 6 hours when i first booted up the linux , then only i suspected whether this filesystem check is an issue
+Nov 13 21:55:27 *	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP) has joined
+Nov 13 21:55:27 *	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP) has joined
+Nov 13 21:55:28 *	ilya (~ilya@SpotChat-t1b.0bc.243.188.IP) has joined
+Nov 13 21:55:28 *	ilya (~ilya@SpotChat-t1b.0bc.243.188.IP) has joined
+Nov 13 21:55:42 <franclip_>	Should i need to wait till it is completed ?
+Nov 13 21:55:42 <franclip_>	Should i need to wait till it is completed ?
+Nov 13 21:55:45 *	gjf has quit (Quit: Leaving)
+Nov 13 21:55:45 *	gjf has quit (Quit: Leaving)
+Nov 13 21:55:57 <edgar360>	aaa
+Nov 13 21:55:57 <edgar360>	aaa
+Nov 13 21:56:02 <franclip_>	_>>
+Nov 13 21:56:02 <franclip_>	_>>
+Nov 13 21:56:08 *	yudzhyn has quit (Quit: Leaving)
+Nov 13 21:56:08 *	yudzhyn has quit (Quit: Leaving)
+Nov 13 21:56:27 <RocketWolf>	franclip_⨠ there are several utilities on the web for checking the health of your file system. and for checking the health of your drive such as apps for ready the S.M.A.R.T. status of your drives
+Nov 13 21:56:27 <RocketWolf>	franclip_⨠ there are several utilities on the web for checking the health of your file system. and for checking the health of your drive such as apps for ready the S.M.A.R.T. status of your drives
+Nov 13 21:56:29 *	yuriy (~yuriy@SpotChat-i57.sdg.214.91.IP) has joined
+Nov 13 21:56:29 *	yuriy (~yuriy@SpotChat-i57.sdg.214.91.IP) has joined
+**** ENDING LOGGING AT Tue Nov 13 21:56:36 2018
+
+**** ENDING LOGGING AT Tue Nov 13 21:56:36 2018
+

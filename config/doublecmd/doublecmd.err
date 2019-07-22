@@ -1,0 +1,34 @@
+--------------- 26-09-2018, 21:41:01 ---------------
+| DC v0.8.2 beta Rev. 8010 -- x86_64-Linux-qt5
+| Linux Mint 19 Tara -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 5008
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F966BE29B80 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000006EDECF line 17411, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000437FD0 in /usr/lib/doublecmd/doublecmd
+  $00000000006CAC5E line 2261, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006CAC94 line 2267, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007F966BE7164B in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00007F9668F7ED2F in /usr/lib/x86_64-linux-gnu/libQt5Core.so.5
+
+--------------- 26-09-2018, 21:41:02 ---------------
+| DC v0.8.2 beta Rev. 8010 -- x86_64-Linux-qt5
+| Linux Mint 19 Tara -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 5008
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F966BE29B80 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000006EDECF line 17411, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000437FD0 in /usr/lib/doublecmd/doublecmd
+  $00000000006CAC5E line 2261, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000079A6E0 line 209, column 24 of qtwscontrols.pp in /usr/lib/doublecmd/doublecmd
+  $0000000000645E78 line 7805, column 26 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000657F35 line 61, column 3 of include/customcontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000064008F line 5299, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000640079 line 5295, column 11 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000642D8C line 6564, column 5 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000657EC1 line 54, column 3 of include/customcontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004A89E1 line 316, column 3 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AA2B1 line 212, column 5 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000437FD0 in /usr/lib/doublecmd/doublecmd
+  $00000000004A5846 line 1905, column 3 of forms.pp in /usr/lib/doublecmd/doublecmd
+

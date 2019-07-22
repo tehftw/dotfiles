@@ -1,0 +1,50 @@
+search chars
+rename tstring.h
+rename tstring.c
+rename tehstring.c
+rename tehstring.h
+search list
+open_with nvim
+chmod +x
+search st
+search col
+search colterm
+search color
+syntax off
+se
+
+bulkrename 
+mkdir st-patches
+open_with 1
+mkdir red
+mkdir green
+mkdir blue
+rename gnulinux-free-as-in-freedom-dark.png
+r1
+search pad
+rename _borked-keypad
+rename keypad.backup:c
+cp keypad
+copy keypad
+search keypad
+copy
+rename keypad
+open_with 14
+open_with vim
+search arch
+search dl
+search iso
+mkdir archiso
+open_with 
+open_with vi
+search git
+search branch
+search config
+search hooks
+search info
+search objects
+search refs
+delete
+search descrip
+search confi
+search bran

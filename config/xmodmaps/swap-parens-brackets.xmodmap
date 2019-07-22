@@ -1,0 +1,11 @@
+! swap parens with brackets
+! on my keyboard:
+! 18 = '9' '('
+! 19 = '0' ')'
+! 34 = '[' '{'
+! 35 = ']' '}'
+!trouble with using vim, might want to disable it
+keycode  34 = parenleft bracketleft bracketleft braceleft bracketleft bracketleft bracketleft
+keycode  35 = parenright bracketright bracketright braceright bracketright bracketright bracketright
+keycode  18 = 9 bracketleft 9 bracketleft
+keycode  19 = 0 bracketright 0 bracketright

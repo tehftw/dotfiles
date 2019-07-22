@@ -1,0 +1,7 @@
+# wojslaw config for youtube-dl
+
+-o "%(uploader)s_%(title)s.%(ext)s"
+--add-metadata
+#--download-archive $HOME/.local/youtube-dl.archive
+
+#--restrict-filenames

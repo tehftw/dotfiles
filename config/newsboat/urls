@@ -1,0 +1,73 @@
+
+
+===blogs===
+https://www.archlinux.org/feeds/news/ "blog" "arch linux"
+https://www.eff.org/rss/updates.xml "~EFF electronic frontier foundation"
+https://lukesmith.xyz/rss.xml "blog" "~Luke Smith" "lukesmithxyz"
+https://danluu.com/atom.xml "blog" "~Danluu"
+
+https://www.wip.pw.edu.pl/rss "~PW WiP"
+
+===podcasts===
+https://notrelated.libsyn.com/rss "podcast" "lukesmithxyz" "~not related podcast lukesmith"
+https://wakingup.libsyn.com/rss "podcast" "sam-harris" "~WakingUp Sam Harris podcast"
+
+
+
+===youtube===
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ-vHE5CrGaL_ITEg-n3OeA "yt" "~theramin trees"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbWcXB0PoqOsAvAdfzWMf0w "yt" "~fredrik knudsen"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "yt" "~luke smith" "lukesmithxyz"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg "yt" "~bisqwit"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "yt" "~3blue1brown"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5CYeHPLer3lbEhgonvbbAA "yt" "~Noah caldwell-gervais"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q "yt" "~kurzgesagt"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWhqd5rt6L42UM-OERvf-gg "yt" "~dewjan"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCE1jXbVAGJQEORz9nZqb5bQ "yt" "~Ahoy"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3TAqUdZld-6B76GqrFEV8g "yt" "~RS elektronika"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWCw2Sd7RlYJ2yuNVHDWNOA "yt" "~Jim Sterling"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCT8a7d6S6RJUivBgNRsiYg "yt" "~ThreeArrows"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCG1uayRlzz3ahT8ISRdyw7Q "yt" "~ GM Skeptic"
+https://www.youtube.com/feeds/videos.xml?user=LastWeekTonight "yt" "~LastWeekTonight"
+
+https://www.youtube.com/feeds/videos.xml?user=emailataskcom/ "yt" "_old" "~ (old) Programothesis"
+
+
+===reddit===
+#https://reddit.com/r/linux/.rss "r" "~r/linux/"
+#https://www.reddit.com/r/linuxmasterrace/.rss  "r" "~r/linuxmasterrace"
+#https://www.reddit.com/r/linuxmemes/.rss "r" "~r/linuxmemes"
+#https://www.reddit.com/r/atheism/.rss "r" "~r/atheism"
+#https://www.reddit.com/r/commandline/.rss "r" "~r/commandline"
+#https://www.reddit.com/r/hentaimemes/.rss "r" "~r/hentaimemes"
+https://www.reddit.com/r/2137/.rss "r" "~r/2137"
+#https://www.reddit.com/user/igeleis/.rss "r" "~u/igeleis, a nosurf guy who writes some interesting stuff"
+#https://www.reddit.com/user/Ex-Muslim_HOTD/submitted/.rss "r" "~u/ex-muslim_hotd"
+#https://www.reddit.com/r/DeepFriedLinuxMemes/.rss "r" "~r/deepfriedlinuxmemes"
+#https://www.reddit.com/r/nosurf/.rss "r" "~r/nosurf"
+#https://www.reddit.com/r/OutOfTheLoop/.rss "r" "~r/OutOfTheLoop"
+#https://www.reddit.com/r/iso8601/.rss "r" "~r/iso8601"
+#https://www.reddit.com/r/poland/.rss "r" "~r/poland"
+#https://www.reddit.com/r/polska/.rss "r" "~r/polska"
+#https://old.reddit.com/r/StallmanWasRight/.rss "r" "~r/stallmanwasright"
+
+===assorted===
+https://gitlab.com/LukeSmithxyz.atom "~gitlab lukesmithxyz"
+
+
+=reddit_trash=
+#https://www.reddit.com/r/GamersRiseUp/.rss "reddit trash" "~r/gamersriseup"
+#https://www.reddit.com/r/Parenting/.rss "reddit trash" "~r/parenting"
+#https://www.reddit.com/r/dankmemes/.rss "reddit trash" "~r/dankmemes"
+#https://www.reddit.com/r/animemes/.rss "reddit trash" "~r/animemes"
+#https://www.reddit.com/r/shitpostcrusaders/.rss "reddit trash" "~r/shitpostcrusaders"
+#https://www.reddit.com/r/excatholic/.rss "reddit trash" "~r/excatholic"
+#https://www.reddit.com/r/hentai/.rss "reddit trash" "~r/hentai"
+#https://www.reddit.com/r/hentaibondage/.rss "reddit trash" "~r/hentaibondage"
+#https://www.reddit.com/r/hentaifemdom/.rss "reddit trash" "~r/hentaifemdom"
+#https://www.reddit.com/r/helplesshentai/.rss "reddit trash" "~r/helplesshentai"
+
+#https://www.reddit.com/r/ProgrammerHumor/top/?t=week
+
+
+

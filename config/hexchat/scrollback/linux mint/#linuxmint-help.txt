@@ -1,0 +1,360 @@
+T 1533641369 19*	Now talking on 22#linuxmint-help
+T 1533641369 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1533641369 22*	Topic for 22#linuxmint-help set by 26zcot!~zcot@linuxmint/team/zcot (24Mon Dec  4 19:47:52 2017)
+T 1533641369 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+T 1542140587 19*	Now talking on 22#linuxmint-help
+T 1542140587 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1542140587 22*	Topic for 22#linuxmint-help set by 26r00t!~r00t@spotchat/staff/r00t (24Sat Nov  3 02:52:19 2018)
+T 1542140587 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+T 1542140587 23*	Weisnix (~wnx@SpotChat-g9br97.pools.vodafone-ip.de23) has joined
+T 1542140600 19*	Now talking on 22#linuxmint-help
+T 1542140600 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1542140600 22*	Topic for 22#linuxmint-help set by 26r00t!~r00t@spotchat/staff/r00t (24Sat Nov  3 02:52:19 2018)
+T 1542140600 23*	tehftw_ (~tehftw@SpotChat-2lsdgm.dynamic-ra-02.vectranet.pl23) has joined
+T 1542140600 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help. Channel Rules: https://goo.gl/mP1Rz1. Type /topic to see more. If you need support, state your issue & wait for a response, this may take 5-10 minutes.
+T 1542140628 18<orcus18>	but ... to be honest ... if you did not install dozens/hundreds of applications ... you might already been done by installing missing ones manually
+T 1542140628 18<orcus18>	but ... to be honest ... if you did not install dozens/hundreds of applications ... you might already been done by installing missing ones manually
+T 1542140646 23*	zilverrug (~zilverrug@SpotChat-uaa7ee.1272.7lql.a03f.2a02.IP23) has joined
+T 1542140646 23*	zilverrug (~zilverrug@SpotChat-uaa7ee.1272.7lql.a03f.2a02.IP23) has joined
+T 1542140657 24*	johnbristol has quit (Quit: Leaving)
+T 1542140657 24*	johnbristol has quit (Quit: Leaving)
+T 1542140669 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel |​ All support questions and languages are welcome! Channel Rules: https://goo.gl/mP1Rz1 - for off-topic chat use  #linuxmint-chat | Upgrade Instructions: https://goo.gl/kKiYXh
+T 1542140669 22*	Topic for 22#linuxmint-help set by 26r00t!~r00t@spotchat/staff/r00t (24Sat Nov  3 02:52:19 2018)
+T 1542140684 18<xmetal18>	that doesn't seem right to me (logic wise) ... like if you had Mint-meta-Cinnamon (via the ISO install) installed in a sense ... then installed Mint-meta-mate ... it seems wrong that removing the CINNAMON meta package at that point would remove critical stuff
+T 1542140684 18<xmetal18>	that doesn't seem right to me (logic wise) ... like if you had Mint-meta-Cinnamon (via the ISO install) installed in a sense ... then installed Mint-meta-mate ... it seems wrong that removing the CINNAMON meta package at that point would remove critical stuff
+T 1542140701 24*	Weisnix has quit (Quit: Leaving)
+T 1542140701 24*	Weisnix has quit (Quit: Leaving)
+T 1542140709 18<xmetal18>	like it should go "oh ... Mint-meta-mate is installed and needs stuff like "apt" ... i will leave that "  
+T 1542140709 18<xmetal18>	like it should go "oh ... Mint-meta-mate is installed and needs stuff like "apt" ... i will leave that "  
+T 1542140713 18<surfer18>	mib_r11gys: I thought so. Do you advise to change what's in my current file to circumvent the synaptic block from restoring the complete softs.list?
+T 1542140713 18<surfer18>	mib_r11gys: I thought so. Do you advise to change what's in my current file to circumvent the synaptic block from restoring the complete softs.list?
+T 1542140715 23*	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de23) has joined
+T 1542140715 23*	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de23) has joined
+T 1542140741 24*	zilverrug has quit (Quit: Leaving)
+T 1542140741 24*	zilverrug has quit (Quit: Leaving)
+T 1542140757 18*	orcus is flying in circles around the spot
+T 1542140757 18*	orcus is flying in circles around the spot
+T 1542140821 24*	dovuzovec has quit (Quit: Leaving)
+T 1542140821 24*	dovuzovec has quit (Quit: Leaving)
+T 1542140825 23*	Belabela (~belabela@SpotChat-hts.86b.55.192.IP23) has joined
+T 1542140825 23*	Belabela (~belabela@SpotChat-hts.86b.55.192.IP23) has joined
+T 1542140837 23*	kratos (~kratos@SpotChat-eq2hn3.webflash.net.br23) has joined
+T 1542140837 23*	kratos (~kratos@SpotChat-eq2hn3.webflash.net.br23) has joined
+T 1542140842 23*	lex (~lex@SpotChat-e6k.1bd.110.109.IP23) has joined
+T 1542140842 23*	lex (~lex@SpotChat-e6k.1bd.110.109.IP23) has joined
+T 1542140871 24*	lex has quit (Quit: Leaving)
+T 1542140871 24*	lex has quit (Quit: Leaving)
+T 1542140877 23*	lex (~lex@SpotChat-e6k.1bd.110.109.IP23) has joined
+T 1542140877 23*	lex (~lex@SpotChat-e6k.1bd.110.109.IP23) has joined
+T 1542140890 24*	kratos has quit (Quit: Leaving)
+T 1542140890 24*	kratos has quit (Quit: Leaving)
+T 1542140894 24*	lex has quit (Quit: Leaving)
+T 1542140894 24*	lex has quit (Quit: Leaving)
+T 1542140900 24*	wnx has quit (Quit: Leaving)
+T 1542140900 24*	wnx has quit (Quit: Leaving)
+T 1542140911 23*	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de23) has joined
+T 1542140911 23*	wnx (~wnx@SpotChat-g9br97.pools.vodafone-ip.de23) has joined
+T 1542140928 23*	jl (~jl@SpotChat-tmkedg.user.ono.com23) has joined
+T 1542140928 23*	jl (~jl@SpotChat-tmkedg.user.ono.com23) has joined
+T 1542140930 23*	max (~max@SpotChat-ftl.uqd.129.1.IP23) has joined
+T 1542140930 23*	max (~max@SpotChat-ftl.uqd.129.1.IP23) has joined
+T 1542140933 24*	panne has quit (Quit: terminating Konversation...)
+T 1542140933 24*	panne has quit (Quit: terminating Konversation...)
+T 1542140943 23*	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP23) has joined
+T 1542140943 23*	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP23) has joined
+T 1542140954 24*	jl has quit (Quit: Leaving)
+T 1542140954 24*	jl has quit (Quit: Leaving)
+T 1542140972 24*	panne has quit (Quit: terminating Konversation...)
+T 1542140972 24*	panne has quit (Quit: terminating Konversation...)
+T 1542140979 23*	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP23) has joined
+T 1542140979 23*	panne (~panne@SpotChat-hpjslr.taf9.l7mg.0560.2a02.IP23) has joined
+T 1542140985 18<mib_r11gys18>	surfer: you could save that file as .bak then change the .conf to user-session=cinnamon then try synaptic again
+T 1542140985 18<mib_r11gys18>	surfer: you could save that file as .bak then change the .conf to user-session=cinnamon then try synaptic again
+T 1542141017 24*	ZaPPeRoo has quit (Quit: Leaving)
+T 1542141017 24*	ZaPPeRoo has quit (Quit: Leaving)
+T 1542141078 23*	sergey (~sergey@SpotChat-4c4.4r8.239.91.IP23) has joined
+T 1542141078 23*	sergey (~sergey@SpotChat-4c4.4r8.239.91.IP23) has joined
+T 1542141084 18<surfer18>	mib_r11gys: Can I just open it with simple text-editor?
+T 1542141084 18<surfer18>	mib_r11gys: Can I just open it with simple text-editor?
+T 1542141113 24*	sergey has quit (Quit: Leaving)
+T 1542141113 24*	sergey has quit (Quit: Leaving)
+T 1542141117 18<surfer18>	mib_r11gys: Like I just read it.
+T 1542141117 18<surfer18>	mib_r11gys: Like I just read it.
+T 1542141120 23*	mint (~mint@SpotChat-kfn.eav.141.62.IP23) has joined
+T 1542141120 23*	mint (~mint@SpotChat-kfn.eav.141.62.IP23) has joined
+T 1542141146 20<tehftw_>30	Hello. I'm having some problem with Wi-Fi - the connection is working, but I want to switch to a different network( my router has 2.4G and 5G network, and I want to switch to 5G ).
+T 1542141146 20<tehftw_>30	I tried using `nmcli dev wifi` and `nmcli dev wifi list` to list the other networks as per archwiki's suggestions, however it only shows my currently connected network. There is a lot of other networks that also aren't listed by this program(my phone sees the others, but nmcli doesn't list them). I tried running nmcli with sudo, with sudo su, restarting all terminal windows, but it still only shows my current network. 
+T 1542141146 20<tehftw_>30	A minute ago I ran this command and it showed me all the other networks with signal strength at all, yet now, nothing. What could be the problem here?
+T 1542141146 20<tehftw_>30	I switched from the stock Xfce to i3wm(muh tilings), though honestly I don't want to go back to the Xfce just to check out the network manager, and I was looking for a commandline, nerdy way to fix it all.;w
+T 1542141146 18<tehftw_18>	Hello. I'm having some problem with Wi-Fi - the connection is working, but I want to switch to a different network( my router has 2.4G and 5G network, and I want to switch to 5G ).
+T 1542141146 18<tehftw_18>	I tried using `nmcli dev wifi` and `nmcli dev wifi list` to list the other networks as per archwiki's suggestions, however it only shows my currently connected network. There is a lot of other networks that also aren't listed by this program(my phone sees the others, but nmcli doesn't list them). I tried running nmcli with sudo, with sudo su, restarting all terminal windows, but it still only shows my current network. 
+T 1542141146 18<tehftw_18>	A minute ago I ran this command and it showed me all the other networks with signal strength at all, yet now, nothing. What could be the problem here?
+T 1542141148 18<tehftw_18>	I switched from the stock Xfce to i3wm(muh tilings), though honestly I don't want to go back to the Xfce just to check out the network manager, and I was looking for a commandline, nerdy way to fix it all.;w
+T 1542141150 24*	28mint is now known as 18Guest98820
+T 1542141150 24*	28mint is now known as 18Guest98820
+T 1542141158 18<mib_r11gys18>	surfer: yes, you need sudo
+T 1542141158 18<mib_r11gys18>	surfer: yes, you need sudo
+T 1542141187 23*	csco (~csco@SpotChat-lk5.pl0.59.142.IP23) has joined
+T 1542141187 23*	csco (~csco@SpotChat-lk5.pl0.59.142.IP23) has joined
+T 1542141203 23*	nick (~nick@SpotChat-sha9iu.o0p9.ddqa.0bb6.2001.IP23) has joined
+T 1542141203 23*	nick (~nick@SpotChat-sha9iu.o0p9.ddqa.0bb6.2001.IP23) has joined
+T 1542141233 18<surfer18>	mib_r11gys: OK. But now first I go follow other tip to deinstall everything Cinnamon except the meta-package.
+T 1542141233 18<surfer18>	mib_r11gys: OK. But now first I go follow other tip to deinstall everything Cinnamon except the meta-package.
+T 1542141233 24*	28nick is now known as 18Guest51005
+T 1542141233 24*	28nick is now known as 18Guest51005
+T 1542141239 23*	sputnik (~user@SpotChat-ln8pai.customer.bnet.at23) has joined
+T 1542141239 23*	sputnik (~user@SpotChat-ln8pai.customer.bnet.at23) has joined
+T 1542141248 23*	polloaster (~polloaster@SpotChat-qi6.j69.13.87.IP23) has joined
+T 1542141248 23*	polloaster (~polloaster@SpotChat-qi6.j69.13.87.IP23) has joined
+T 1542141254 24*	knight has quit (Connection closed)
+T 1542141254 24*	knight has quit (Connection closed)
+T 1542141255 18<mib_r11gys18>	surfer: agreed
+T 1542141255 18<mib_r11gys18>	surfer: agreed
+T 1542141258 24*	novis has quit (Quit: Leaving)
+T 1542141258 24*	novis has quit (Quit: Leaving)
+T 1542141278 24*	Belabela has quit (Quit: Leaving)
+T 1542141278 24*	Belabela has quit (Quit: Leaving)
+T 1542141301 24*	Guest98820 has quit (Quit: Leaving)
+T 1542141301 24*	Guest98820 has quit (Quit: Leaving)
+T 1542141309 23*	paul (~paul@SpotChat-pg32gh.4a8i.tcri.100e.2600.IP23) has joined
+T 1542141309 23*	paul (~paul@SpotChat-pg32gh.4a8i.tcri.100e.2600.IP23) has joined
+T 1542141310 23*	koboldh (~koboldh@SpotChat-bkeocu.f9ea.nfoc.0e34.2a01.IP23) has joined
+T 1542141310 23*	koboldh (~koboldh@SpotChat-bkeocu.f9ea.nfoc.0e34.2a01.IP23) has joined
+T 1542141361 24*	polloaster has quit (Quit: Leaving)
+T 1542141361 24*	polloaster has quit (Quit: Leaving)
+T 1542141371 24*	paul has quit (Quit: Leaving)
+T 1542141371 24*	paul has quit (Quit: Leaving)
+T 1542141395 24*	Guest51005 has quit (Quit: Leaving)
+T 1542141395 24*	Guest51005 has quit (Quit: Leaving)
+T 1542141424 18<surfer18>	mib_r11gys: No, the list is too long... I am just afraid that after changing this one file it might be sucesful on itself, but then the next blockade is popping up... I will just do clean install again.
+T 1542141424 18<surfer18>	mib_r11gys: No, the list is too long... I am just afraid that after changing this one file it might be sucesful on itself, but then the next blockade is popping up... I will just do clean install again.
+T 1542141465 24*	Dr_Coke has quit (Connection closed)
+T 1542141465 24*	Dr_Coke has quit (Connection closed)
+T 1542141468 23*	panda (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de23) has joined
+T 1542141468 23*	panda (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de23) has joined
+T 1542141471 23*	Coke (~Dr_Coke@SpotChat-v6pnlv.tpgi.com.au23) has joined
+T 1542141471 23*	Coke (~Dr_Coke@SpotChat-v6pnlv.tpgi.com.au23) has joined
+T 1542141474 24*	surfer has quit (Quit: Leaving)
+T 1542141474 24*	surfer has quit (Quit: Leaving)
+T 1542141483 23*	naiara (~naiara@SpotChat-vsl.ebh.85.177.IP23) has joined
+T 1542141483 23*	naiara (~naiara@SpotChat-vsl.ebh.85.177.IP23) has joined
+T 1542141494 23*	panda_ (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de23) has joined
+T 1542141494 23*	panda_ (~panda@SpotChat-deo3ub.dip0.t-ipconnect.de23) has joined
+T 1542141502 23*	karl (~karl@SpotChat-0847l8.cm.kabsi.at23) has joined
+T 1542141502 23*	karl (~karl@SpotChat-0847l8.cm.kabsi.at23) has joined
+T 1542141513 24*	dell has quit (Quit: Leaving)
+T 1542141513 24*	dell has quit (Quit: Leaving)
+T 1542141515 24*	panda_ has quit (Quit: Leaving)
+T 1542141515 24*	panda_ has quit (Quit: Leaving)
+T 1542141530 24*	karl has quit (Quit: Leaving)
+T 1542141530 24*	karl has quit (Quit: Leaving)
+T 1542141550 24*	panda has quit (Quit: Leaving)
+T 1542141550 24*	panda has quit (Quit: Leaving)
+T 1542141564 23*	abcd (~porboy@SpotChat-27orog.nctc.net23) has joined
+T 1542141564 23*	abcd (~porboy@SpotChat-27orog.nctc.net23) has joined
+T 1542141581 18*	watchcat approves
+T 1542141581 18*	watchcat approves
+T 1542141592 18<RocketWolf18>	tehftw_⨠ there are plenty of linux apps to scan your network. changing your DE is not going to change a malfunctioning app
+T 1542141592 19<RocketWolf>	tehftw_⨠ there are plenty of linux apps to scan your network. changing your DE is not going to change a malfunctioning app
+T 1542141599 23*	frenk (~frenk@SpotChat-2nt.6ji.186.193.IP23) has joined
+T 1542141599 23*	frenk (~frenk@SpotChat-2nt.6ji.186.193.IP23) has joined
+T 1542141612 23*	mark2 (~mark2@SpotChat-fuuchf.cable.virginm.net23) has joined
+T 1542141612 23*	mark2 (~mark2@SpotChat-fuuchf.cable.virginm.net23) has joined
+T 1542141621 24*	frenk has quit (Quit: Leaving)
+T 1542141621 24*	frenk has quit (Quit: Leaving)
+T 1542141622 24*	tecnecio has quit (Connection closed)
+T 1542141622 24*	tecnecio has quit (Connection closed)
+T 1542141665 23*	hamid (~hamid@SpotChat-4ov.kkh.155.105.IP23) has joined
+T 1542141665 23*	hamid (~hamid@SpotChat-4ov.kkh.155.105.IP23) has joined
+T 1542141670 18<RocketWolf18>	tehftw_⨠ as for switching from 2.4Ghz to 5Ghz , this is done in the router settings itself since it is the router frequency you are choosing to switch to
+T 1542141670 19<RocketWolf>	tehftw_⨠ as for switching from 2.4Ghz to 5Ghz , this is done in the router settings itself since it is the router frequency you are choosing to switch to
+T 1542141691 20<tehftw_>30	RocketWolf >> I didn't switch because of any application malfunctioning. Everything works great on both Xfce and i3wm. My problem is, that I can't see any network in nmcli, that I'm not already connected to.
+T 1542141691 18<tehftw_18>	RocketWolf >> I didn't switch because of any application malfunctioning. Everything works great on both Xfce and i3wm. My problem is, that I can't see any network in nmcli, that I'm not already connected to.
+T 1542141722 23*	jbc-linux (~jbc-linux@SpotChat-o1op7p.user.start.ca23) has joined
+T 1542141722 23*	jbc-linux (~jbc-linux@SpotChat-o1op7p.user.start.ca23) has joined
+T 1542141726 23*	bernie (~bernie@SpotChat-p2r.8a3.149.95.IP23) has joined
+T 1542141726 23*	bernie (~bernie@SpotChat-p2r.8a3.149.95.IP23) has joined
+T 1542141732 23*	yasar (~yasar@SpotChat-krs.2v1.231.88.IP23) has joined
+T 1542141732 23*	yasar (~yasar@SpotChat-krs.2v1.231.88.IP23) has joined
+T 1542141733 23*	caesar (~caesar@SpotChat-06babg.access.telenet.be23) has joined
+T 1542141733 23*	caesar (~caesar@SpotChat-06babg.access.telenet.be23) has joined
+T 1542141734 24*	jbc-linux has quit (Quit: Leaving)
+T 1542141734 24*	jbc-linux has quit (Quit: Leaving)
+T 1542141737 19<RocketWolf>	tehftw_⨠ https://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/
+T 1542141737 18<RocketWolf18>	tehftw_⨠ https://www.tecmint.com/configure-network-connections-using-nmcli-tool-in-linux/
+T 1542141739 24*	mark2 has quit (Connection closed)
+T 1542141739 24*	mark2 has quit (Connection closed)
+T 1542141757 24*	yasar has quit (Quit: Leaving)
+T 1542141757 24*	yasar has quit (Quit: Leaving)
+T 1542141757 24*	bernie has quit (Quit: Leaving)
+T 1542141757 24*	bernie has quit (Quit: Leaving)
+T 1542141764 20<tehftw_>30	RocketWolf: My router spawns two networks by default, so I have "tehftw_2.4G" and "tehftw_5G" networks available all the time. It's not a router problem, it's something on my computer.
+T 1542141764 18<tehftw_18>	RocketWolf: My router spawns two networks by default, so I have "tehftw_2.4G" and "tehftw_5G" networks available all the time. It's not a router problem, it's something on my computer.
+T 1542141812 24*	cbg has quit (Connection closed)
+T 1542141812 24*	cbg has quit (Connection closed)
+T 1542141820 18<RocketWolf18>	nmcli is for managing linux server networking.
+T 1542141820 18<RocketWolf18>	nmcli is for managing linux server networking.
+T 1542141829 18<RocketWolf18>	routers dont spawn anything
+T 1542141829 18<RocketWolf18>	routers dont spawn anything
+T 1542141845 23*	alljur (~alljur@SpotChat-nkakhk.retail.telecomitalia.it23) has joined
+T 1542141845 23*	alljur (~alljur@SpotChat-nkakhk.retail.telecomitalia.it23) has joined
+T 1542141872 18<RocketWolf18>	the router has two frequencies available for your use, the older 2.4ghz which everything in your home utilizes and a 5ghz frequency that is far less used
+T 1542141872 18<RocketWolf18>	the router has two frequencies available for your use, the older 2.4ghz which everything in your home utilizes and a 5ghz frequency that is far less used
+T 1542141882 23*	navydave (~navydave@SpotChat-a0losi.ip.windstream.net23) has joined
+T 1542141882 23*	navydave (~navydave@SpotChat-a0losi.ip.windstream.net23) has joined
+T 1542141883 23*	navydave_ (~navydave@SpotChat-a0losi.ip.windstream.net23) has joined
+T 1542141883 23*	navydave_ (~navydave@SpotChat-a0losi.ip.windstream.net23) has joined
+T 1542141895 18<RocketWolf18>	and less cluuttered
+T 1542141895 18<RocketWolf18>	and less cluuttered
+T 1542141913 24*	navydave has quit (Quit: Leaving)
+T 1542141913 24*	navydave has quit (Quit: Leaving)
+T 1542141920 24*	navydave_ has quit (Quit: Leaving)
+T 1542141920 24*	navydave_ has quit (Quit: Leaving)
+T 1542141935 18<RocketWolf18>	tehftw_⨠ use the link I gave you for learning how to use a linux server networking manager
+T 1542141935 19<RocketWolf>	tehftw_⨠ use the link I gave you for learning how to use a linux server networking manager
+T 1542141948 24*	caesar has quit (Quit: Leaving)
+T 1542141948 24*	caesar has quit (Quit: Leaving)
+T 1542141953 23*	caesar (~caesar@SpotChat-06babg.access.telenet.be23) has joined
+T 1542141953 23*	caesar (~caesar@SpotChat-06babg.access.telenet.be23) has joined
+T 1542141953 24*	alljur has quit (Quit: Leaving)
+T 1542141953 24*	alljur has quit (Quit: Leaving)
+T 1542141956 20<tehftw_>30	RocketWolf: Yes, I know that. My router is working correctly, the only problem is with my computer not seeing the other networks. My phone lists all the other neighbors in Wireless menu, but my computer and nmcli don't see them.
+T 1542141956 18<tehftw_18>	RocketWolf: Yes, I know that. My router is working correctly, the only problem is with my computer not seeing the other networks. My phone lists all the other neighbors in Wireless menu, but my computer and nmcli don't see them.
+T 1542141975 23*	norbert (~norbert@SpotChat-7lofqe.dip0.t-ipconnect.de23) has joined
+T 1542141975 23*	norbert (~norbert@SpotChat-7lofqe.dip0.t-ipconnect.de23) has joined
+T 1542141980 24*	Coke has quit (Quit: Leaving)
+T 1542141980 24*	Coke has quit (Quit: Leaving)
+T 1542141994 18<RocketWolf18>	read thru the man pages of nmcli 
+T 1542141994 18<RocketWolf18>	read thru the man pages of nmcli 
+T 1542141995 23*	franclip (~franclip@SpotChat-jq8.0s3.72.141.IP23) has joined
+T 1542141995 23*	franclip (~franclip@SpotChat-jq8.0s3.72.141.IP23) has joined
+T 1542142001 23*	franclip_ (~franclip@SpotChat-jq8.0s3.72.141.IP23) has joined
+T 1542142001 23*	franclip_ (~franclip@SpotChat-jq8.0s3.72.141.IP23) has joined
+T 1542142004 24*	norbert has quit (Quit: Leaving)
+T 1542142004 24*	norbert has quit (Quit: Leaving)
+T 1542142043 23*	cris (~cris@SpotChat-6v2.d68.98.177.IP23) has joined
+T 1542142043 23*	cris (~cris@SpotChat-6v2.d68.98.177.IP23) has joined
+T 1542142058 24*	cris has quit (Quit: Leaving)
+T 1542142058 24*	cris has quit (Quit: Leaving)
+T 1542142060 24*	jay has quit (Quit: Leaving)
+T 1542142060 24*	jay has quit (Quit: Leaving)
+T 1542142063 24*	hamid has quit (Quit: Leaving)
+T 1542142063 24*	hamid has quit (Quit: Leaving)
+T 1542142064 18<franclip_18>	Hi friends
+T 1542142064 18<franclip_18>	Hi friends
+T 1542142071 23*	chris (~chris@SpotChat-gc6276.cg.shawcable.net23) has joined
+T 1542142071 23*	chris (~chris@SpotChat-gc6276.cg.shawcable.net23) has joined
+T 1542142083 23*	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP23) has joined
+T 1542142083 23*	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP23) has joined
+T 1542142088 24*	gjf has quit (Quit: Leaving)
+T 1542142088 24*	gjf has quit (Quit: Leaving)
+T 1542142097 18<chris18>	hi guys looking to use PIA manager any tips? I'd like a US VPN so I can watch american netflix
+T 1542142097 18<chris18>	hi guys looking to use PIA manager any tips? I'd like a US VPN so I can watch american netflix
+T 1542142099 23*	jan3 (~jan3@SpotChat-0l8.9i2.145.185.IP23) has joined
+T 1542142099 23*	jan3 (~jan3@SpotChat-0l8.9i2.145.185.IP23) has joined
+T 1542142108 18<franclip_18>	every time i start to boot my Linux mint cinnamon, file system check is happening and it is running forever
+T 1542142108 18<franclip_18>	every time i start to boot my Linux mint cinnamon, file system check is happening and it is running forever
+T 1542142111 24*	jan3 has quit (Connection closed)
+T 1542142111 24*	jan3 has quit (Connection closed)
+T 1542142131 18<pallonen_18>	is there a way to run a program when using shutdown command? would like it to run bleachbit before shutting down/restarting
+T 1542142131 18<pallonen_18>	is there a way to run a program when using shutdown command? would like it to run bleachbit before shutting down/restarting
+T 1542142137 18<franclip_18>	I even re-installed the linux mint several times but can't able to resolve the problem
+T 1542142137 18<franclip_18>	I even re-installed the linux mint several times but can't able to resolve the problem
+T 1542142139 23*	cesar (~cesar@SpotChat-i9q.2q6.5.179.IP23) has joined
+T 1542142139 23*	cesar (~cesar@SpotChat-i9q.2q6.5.179.IP23) has joined
+T 1542142141 18<RocketWolf18>	your DE and your WM dont look for networks, your network manager will "display" the networks you are connected to. Other apps are designed to "scan for" available netowrks like the app on your mobile phone. THe apps can malfunction and you need to contact the group or person that created the app
+T 1542142141 18<RocketWolf18>	your DE and your WM dont look for networks, your network manager will "display" the networks you are connected to. Other apps are designed to "scan for" available netowrks like the app on your mobile phone. THe apps can malfunction and you need to contact the group or person that created the app
+T 1542142155 24*	cesar has quit (Quit: Leaving)
+T 1542142155 24*	cesar has quit (Quit: Leaving)
+T 1542142158 18<franclip_18>	Does any know how to resolve this issue ?
+T 1542142158 18<franclip_18>	Does any know how to resolve this issue ?
+T 1542142170 18<RocketWolf18>	chris⨠ this is linux mint help 
+T 1542142170 18<RocketWolf18>	chris⨠ this is linux mint help 
+T 1542142188 18<chris18>	oh sorry rocketwolf em where do I click to get i guess app help
+T 1542142188 18<chris18>	oh sorry rocketwolf em where do I click to get i guess app help
+T 1542142200 18<RocketWolf18>	pallonen_⨠ you can write a cron job to do that
+T 1542142200 18<RocketWolf18>	pallonen_⨠ you can write a cron job to do that
+T 1542142223 23*	mint (~mint@SpotChat-oii.o33.79.36.IP23) has joined
+T 1542142223 23*	mint (~mint@SpotChat-oii.o33.79.36.IP23) has joined
+T 1542142242 18<RocketWolf18>	chris⨠ type /j #linuxmint-chat
+T 1542142242 18<RocketWolf18>	chris⨠ type /j #linuxmint-chat
+T 1542142251 24*	28mint is now known as 18Guest89689
+T 1542142251 24*	28mint is now known as 18Guest89689
+T 1542142258 24*	Guest89689 has quit (Quit: Leaving)
+T 1542142258 24*	Guest89689 has quit (Quit: Leaving)
+T 1542142259 18<pallonen_18>	RocketWolf: you just throw me out of the ring =) will try to decypher that one but thank you in any case =)
+T 1542142259 18<pallonen_18>	RocketWolf: you just throw me out of the ring =) will try to decypher that one but thank you in any case =)
+T 1542142262 18<chris18>	will do 
+T 1542142262 18<chris18>	will do 
+T 1542142270 23*	matheus (~matheus@SpotChat-212.6ls.223.177.IP23) has joined
+T 1542142270 23*	matheus (~matheus@SpotChat-212.6ls.223.177.IP23) has joined
+T 1542142277 24*	matheus has quit (Quit: Leaving)
+T 1542142277 24*	matheus has quit (Quit: Leaving)
+T 1542142289 23*	care (~care@SpotChat-i7tde8.res.rr.com23) has joined
+T 1542142289 23*	care (~care@SpotChat-i7tde8.res.rr.com23) has joined
+T 1542142299 24*	care has quit (Quit: Leaving)
+T 1542142299 24*	care has quit (Quit: Leaving)
+T 1542142336 23*	mint (~mint@SpotChat-sbtcac.dhcp.inet.fi23) has joined
+T 1542142336 23*	mint (~mint@SpotChat-sbtcac.dhcp.inet.fi23) has joined
+T 1542142341 23*	neo (~n30@SpotChat-gk3.6bv.70.103.IP23) has joined
+T 1542142341 23*	neo (~n30@SpotChat-gk3.6bv.70.103.IP23) has joined
+T 1542142354 24*	neo has quit (Quit: Leaving)
+T 1542142354 24*	neo has quit (Quit: Leaving)
+T 1542142364 23*	mint_ (~mint@SpotChat-0dakkh.3h0f.clgs.2698.2a02.IP23) has joined
+T 1542142364 23*	mint_ (~mint@SpotChat-0dakkh.3h0f.clgs.2698.2a02.IP23) has joined
+T 1542142364 24*	mint has quit (Quit: Leaving)
+T 1542142364 24*	mint has quit (Quit: Leaving)
+T 1542142398 24*	mint_ has quit (Quit: Leaving)
+T 1542142398 24*	mint_ has quit (Quit: Leaving)
+T 1542142406 18<RocketWolf18>	franclip_⨠ there are lost or corrupt files on your system and if you stop the file system check before it finishes, you can end up with more corrupt files or crosslinked files or lost files that mwill make it take longer to boot up the next time
+T 1542142406 18<RocketWolf18>	franclip_⨠ there are lost or corrupt files on your system and if you stop the file system check before it finishes, you can end up with more corrupt files or crosslinked files or lost files that mwill make it take longer to boot up the next time
+T 1542142409 18<zcot18>	xmetal: yea, the latest mints have pretty integrated meta packages. just so you can get an example: https://gist.github.com/zcot/81a9c0ec1fe8352094f9ca9a9b28bbc6 but pretty sure i saw someone in here purge a meta package then reinstall core only(still missing some other extraneous items but not a system killer at least)
+T 1542142409 18<zcot18>	xmetal: yea, the latest mints have pretty integrated meta packages. just so you can get an example: https://gist.github.com/zcot/81a9c0ec1fe8352094f9ca9a9b28bbc6 but pretty sure i saw someone in here purge a meta package then reinstall core only(still missing some other extraneous items but not a system killer at least)
+T 1542142424 18<RocketWolf18>	franclip_⨠ this can cause the boot up process to take longer eand longer each time you interupt it
+T 1542142424 18<RocketWolf18>	franclip_⨠ this can cause the boot up process to take longer eand longer each time you interupt it
+T 1542142426 23*	vvf (~vvf@SpotChat-tmj.tbd.61.46.IP23) has joined
+T 1542142426 23*	vvf (~vvf@SpotChat-tmj.tbd.61.46.IP23) has joined
+T 1542142435 23*	staralfur (~staralfur@SpotChat-d3f.27l.128.185.IP23) has joined
+T 1542142435 23*	staralfur (~staralfur@SpotChat-d3f.27l.128.185.IP23) has joined
+T 1542142436 24*	vvf has quit (Quit: Leaving)
+T 1542142436 24*	vvf has quit (Quit: Leaving)
+T 1542142442 23*	user_ (~user@SpotChat-tm0.h0j.249.173.IP23) has joined
+T 1542142442 23*	user_ (~user@SpotChat-tm0.h0j.249.173.IP23) has joined
+T 1542142447 24*	user_ has quit (Connection closed)
+T 1542142447 24*	user_ has quit (Connection closed)
+T 1542142449 23*	edgar360 (~edgar360@SpotChat-kju.t5p.217.189.IP23) has joined
+T 1542142449 23*	edgar360 (~edgar360@SpotChat-kju.t5p.217.189.IP23) has joined
+T 1542142464 23*	mint (~mint@SpotChat-mh4uk1.user.ono.com23) has joined
+T 1542142464 23*	mint (~mint@SpotChat-mh4uk1.user.ono.com23) has joined
+T 1542142465 23*	yudzhyn (~yudzhyn@SpotChat-6st.pqa.212.178.IP23) has joined
+T 1542142465 23*	yudzhyn (~yudzhyn@SpotChat-6st.pqa.212.178.IP23) has joined
+T 1542142469 23*	l0ndoner (~l0ndoner@SpotChat-k5acui.dsl.as9105.com23) has joined
+T 1542142469 23*	l0ndoner (~l0ndoner@SpotChat-k5acui.dsl.as9105.com23) has joined
+T 1542142480 23*	sebastien (~sebastien@SpotChat-mabal0.80fv.ve40.0e34.2a01.IP23) has joined
+T 1542142480 23*	sebastien (~sebastien@SpotChat-mabal0.80fv.ve40.0e34.2a01.IP23) has joined
+T 1542142494 24*	28mint is now known as 18Guest15123
+T 1542142494 24*	28mint is now known as 18Guest15123
+T 1542142506 23*	nyamien (~nyamien@SpotChat-hvk.cff.210.41.IP23) has joined
+T 1542142506 23*	nyamien (~nyamien@SpotChat-hvk.cff.210.41.IP23) has joined
+T 1542142520 24*	nyamien has quit (Quit: Leaving)
+T 1542142520 24*	nyamien has quit (Quit: Leaving)
+T 1542142523 18<franclip_18>	agreed Rocketwolf but i did allow the file system check to run for 6 hours when i first booted up the linux , then only i suspected whether this filesystem check is an issue
+T 1542142523 18<franclip_18>	agreed Rocketwolf but i did allow the file system check to run for 6 hours when i first booted up the linux , then only i suspected whether this filesystem check is an issue
+T 1542142527 23*	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP23) has joined
+T 1542142527 23*	gjf (~fasd@SpotChat-u72hjn.ercr.8fhs.08a0.2001.IP23) has joined
+T 1542142528 23*	ilya (~ilya@SpotChat-t1b.0bc.243.188.IP23) has joined
+T 1542142528 23*	ilya (~ilya@SpotChat-t1b.0bc.243.188.IP23) has joined
+T 1542142542 18<franclip_18>	Should i need to wait till it is completed ?
+T 1542142542 18<franclip_18>	Should i need to wait till it is completed ?
+T 1542142545 24*	gjf has quit (Quit: Leaving)
+T 1542142545 24*	gjf has quit (Quit: Leaving)
+T 1542142557 18<edgar36018>	aaa
+T 1542142557 18<edgar36018>	aaa
+T 1542142562 18<franclip_18>	_>>
+T 1542142562 18<franclip_18>	_>>
+T 1542142568 24*	yudzhyn has quit (Quit: Leaving)
+T 1542142568 24*	yudzhyn has quit (Quit: Leaving)
+T 1542142587 18<RocketWolf18>	franclip_⨠ there are several utilities on the web for checking the health of your file system. and for checking the health of your drive such as apps for ready the S.M.A.R.T. status of your drives
+T 1542142587 18<RocketWolf18>	franclip_⨠ there are several utilities on the web for checking the health of your file system. and for checking the health of your drive such as apps for ready the S.M.A.R.T. status of your drives
+T 1542142589 23*	yuriy (~yuriy@SpotChat-i57.sdg.214.91.IP23) has joined
+T 1542142589 23*	yuriy (~yuriy@SpotChat-i57.sdg.214.91.IP23) has joined

@@ -1,0 +1,6 @@
+URxvt.background: 0
+URxvt.foreground: 7
+URxvt.transparent: true
+URxvt.shading: 12
+
+URxvt.intensityStyles: false

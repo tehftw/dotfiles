@@ -1,0 +1,29 @@
+external-url-viewer "urlview"
+
+# color listnormal white default
+# color listfocus white default bold
+# color listnormal_unread cyan default
+# color listfocus_unread cyan default bold
+# color info default default
+# color background default default
+# color article default default
+
+datetime-format "%Y-%m-%d"
+articlelist-title-format "[%u/%t] in feed '%T' %U"
+feedlist-title-format "[%u/%t] %T"
+itemview-title-format "[%u/%t]: %T"
+searchresult-title-format "search result [%u/%t]"
+feedlist-format "%4i %n %12u %t"
+
+
+browser w3m
+macro , open-in-browser
+macro w set browser "w3m %u"
+macro v set browser "i3 exec mpv %u"
+macro i set browser "feh %u &"
+macro f set browser "firefox %u &"
+macro d set browser "tsp tdl-downloader.sh %u &"
+macro r set browser "rtv %u"
+
+download-path ~/Audio/podboat
+player "mpv"

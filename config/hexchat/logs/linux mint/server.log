@@ -1,0 +1,47 @@
+**** BEGIN LOGGING AT Tue Aug  7 13:29:24 2018
+
+Aug 07 13:29:24 *	Looking up irc.spotchat.org
+**** BEGIN LOGGING AT Tue Nov 13 21:22:53 2018
+
+Nov 13 21:22:53 *	Looking up irc.spotchat.org
+Nov 13 21:22:53 *	Connecting to irc.spotchat.org (64.57.93.14:6667)
+Nov 13 21:22:54 *	Connected. Now logging in.
+Nov 13 21:22:54 *	*** Looking up your hostname...
+Nov 13 21:22:54 *	*** Looking up your ident...
+Nov 13 21:22:54 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Nov 13 21:22:54 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Nov 13 21:22:54 *	*** Found your hostname (088156139222.dynamic-ra-02.vectranet.pl)
+Nov 13 21:22:54 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+**** BEGIN LOGGING AT Tue Nov 13 21:23:02 2018
+
+Nov 13 21:23:02 *	Looking up irc.spotchat.org
+Nov 13 21:23:02 *	Connecting to irc.spotchat.org (212.71.233.192:6667)
+Nov 13 21:23:02 *	Connected. Now logging in.
+Nov 13 21:23:02 *	*** Looking up your hostname...
+Nov 13 21:23:02 *	*** Looking up your ident...
+Nov 13 21:23:02 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Nov 13 21:23:02 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Nov 13 21:23:02 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Nov 13 21:23:02 *	*** Found your hostname (088156139222.dynamic-ra-02.vectranet.pl)
+Nov 13 21:23:07 *	*** Ident request timed out.
+Nov 13 21:23:07 *	*** Could not find your ident, using ~tehftw instead.
+Nov 13 21:23:07 *	Welcome to SpotChat!
+**** ENDING LOGGING AT Tue Nov 13 21:23:07 2018
+
+**** BEGIN LOGGING AT Tue Nov 13 21:23:15 2018
+
+Nov 13 21:23:15 *	Looking up irc.spotchat.org
+Nov 13 21:23:15 *	Connecting to irc.spotchat.org (212.71.233.192:6667)
+Nov 13 21:23:15 *	Connected. Now logging in.
+Nov 13 21:23:15 *	*** Looking up your hostname...
+Nov 13 21:23:15 *	*** Looking up your ident...
+Nov 13 21:23:15 *	*** Found your hostname (088156139222.dynamic-ra-02.vectranet.pl) -- cached
+Nov 13 21:23:15 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Nov 13 21:23:15 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Nov 13 21:23:15 *	tehftw is already in use. Retrying with tehftw_...
+Nov 13 21:23:15 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Nov 13 21:23:20 *	*** Ident request timed out.
+Nov 13 21:23:20 *	*** Could not find your ident, using ~tehftw instead.
+Nov 13 21:23:20 *	Welcome to SpotChat!
+**** ENDING LOGGING AT Tue Nov 13 21:23:20 2018
+

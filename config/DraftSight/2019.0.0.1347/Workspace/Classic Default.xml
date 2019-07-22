@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Warning! -->
+<!-- Manually altering this file can generate unpredictable behavior in the application. You can lose customization and migration functionality. -->
+<!-- If you need to change information in the file, use the appropriate commands and dialog boxes in the software. -->
+<workspace>
+    <workspace>
+        <name workspace_name="Classic"/>
+        <description description=""/>
+        <status_bar_visible status_bar_visible="1"/>
+        <groups/>
+        <root_menu_items>
+            <menu uid="ID_MnFile" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnEdit" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnView" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnInsert" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnFormat" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnDimensi" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnDraw" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnModify" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnTools" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnWindow" group_id="Id_MainGroup"/>
+            <menu uid="ID_MnHelp" group_id="Id_MainGroup"/>
+        </root_menu_items>
+        <root_toolbar_items>
+            <toolbar uid="ID_TbStandar" group_id="Id_MainGroup"/>
+            <toolbar uid="ID_TbLayer" group_id="Id_MainGroup"/>
+            <toolbar uid="ID_TbObjectP" group_id="Id_MainGroup"/>
+            <toolbar uid="ID_TbDraw" group_id="Id_MainGroup"/>
+            <toolbar uid="ID_TbModify" group_id="Id_MainGroup"/>
+        </root_toolbar_items>
+        <dockable_windows>
+            <window object_name="commandwindow" orientation="8" visible="1" name="Command window" dockable="1"/>
+            <window object_name="propertywindow" orientation="2" visible="1" name="Properties" dockable="1"/>
+            <window object_name="xrefmanager" orientation="2" visible="0" name="References" dockable="1"/>
+            <window object_name="lightlistwindow" orientation="2" visible="0" name="Lighting" dockable="1"/>
+            <window object_name="optiontoolbar" orientation="4" visible="0" name="Options Toolbar" dockable="1"/>
+            <window object_name="matrixtoolbarwindow" orientation="2" visible="0" name="Tool Matrix" dockable="1"/>
+            <window object_name="home" orientation="2" visible="1" name="Home" dockable="1"/>
+        </dockable_windows>
+    </workspace>
+</workspace>

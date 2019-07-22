@@ -1,0 +1,24 @@
+VirtualBox GUI VM Selector Window 5.2.10_Ubuntu r121806 linux.amd64 (Jun 15 2018 16:14:07) release log
+00:00:01.612509 Log opened 2018-11-18T17:43:47.634836000Z
+00:00:01.612511 Build Type: release
+00:00:01.612516 OS Product: Linux
+00:00:01.612518 OS Release: 4.15.0-39-generic
+00:00:01.612520 OS Version: #42-Ubuntu SMP Tue Oct 23 15:48:01 UTC 2018
+00:00:01.612558 DMI Product Name: 80K6
+00:00:01.612575 DMI Product Version: Lenovo Z51-70
+00:00:01.612664 Host RAM: 7890MB (7.7GB) total, 6545MB (6.3GB) available
+00:00:01.612671 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.612672 Process ID: 12430
+00:00:01.612674 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.612718 Qt version: 5.9.5
+00:00:01.776063 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.373606 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.390757 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 640x0 x 640x1057
+00:00:07.815559 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:07.863670 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:38.466402 GUI: UIMediumEnumerator: Medium with key={8b4a14b0-2562-4370-8a72-31e6aea260ed} created
+00:00:38.626607 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:05.110054 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:46.851926 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:47.510973 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:47.524669 GUI: UIMediumEnumerator: Medium-enumeration finished!

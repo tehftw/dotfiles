@@ -1,3 +1,18 @@
+search skills
+search armor
+search belt
+rename BaseMod113.zip
+search game.ex
+rename _Game.exe.backup
+search game.
+search game.exe
+rename _backup_gameexe
+search plug
+search ini
+search 
+search game
+search game.e
+search d2se
 search chars
 rename tstring.h
 rename tstring.c
@@ -29,22 +44,7 @@ copy keypad
 search keypad
 copy
 rename keypad
-open_with 14
-open_with vim
-search arch
-search dl
-search iso
-mkdir archiso
 open_with 
-open_with vi
-search git
-search branch
-search config
-search hooks
-search info
-search objects
-search refs
+open_with 14
 delete
-search descrip
-search confi
-search bran
+rename notatkidoplytki.zip

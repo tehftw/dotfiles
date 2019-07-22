@@ -12,6 +12,8 @@
 	"get feedback while using ':%s/foo/bar/'
 	set inccommand=split
 
+	set scrolloff=2
+
 
 	" keep undo history across sessions by storing it in a file {
 		set undofile                " Save undo's after file closes
